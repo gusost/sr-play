@@ -27,6 +27,12 @@ SHOW_MORE_URL = (
 )
 OUTPUT_PATH = Path("docs/feed.xml")
 PUBLIC_FEED_URL = os.environ.get("FEED_URL")
+CUSTOM_FEED_TITLE = "P3 Historia (Komplett arkiv)"
+CUSTOM_OWNER_NAME = "P3 Historia (Komplett arkiv)"
+CUSTOM_DESCRIPTION_SUFFIX = (
+    "Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt"
+    " som saknas i Sveriges Radios vanliga poddflöde."
+)
 ITUNES_NS = "http://www.itunes.com/dtds/podcast-1.0.dtd"
 ATOM_NS = "http://www.w3.org/2005/Atom"
 SR_NS = "http://www.sverigesradio.se/podrss"
@@ -347,6 +353,37 @@ def make_output_root(source_channel: ET.Element) -> tuple[ET.Element, ET.Element
     channel = ET.SubElement(root, "channel")
     for child in source_channel:
         if child.tag == "item":
+            continue
+        if child.tag == "title":
+            updated_child = copy.deepcopy(child)
+            updated_child.text = CUSTOM_FEED_TITLE
+            channel.append(updated_child)
+            continue
+        if child.tag == "description":
+            updated_child = copy.deepcopy(child)
+            base_text = updated_child.text or ""
+            updated_child.text = f"{base_text}\n{CUSTOM_DESCRIPTION_SUFFIX}".strip()
+            channel.append(updated_child)
+            continue
+        if child.tag == "image":
+            updated_child = copy.deepcopy(child)
+            image_title = updated_child.find("title")
+            if image_title is not None:
+                image_title.text = CUSTOM_FEED_TITLE
+            channel.append(updated_child)
+            continue
+        if child.tag == f"{{{ITUNES_NS}}}summary":
+            updated_child = copy.deepcopy(child)
+            base_text = updated_child.text or ""
+            updated_child.text = f"{base_text} {CUSTOM_DESCRIPTION_SUFFIX}".strip()
+            channel.append(updated_child)
+            continue
+        if child.tag == f"{{{ITUNES_NS}}}owner":
+            updated_child = copy.deepcopy(child)
+            owner_name = updated_child.find(f"{{{ITUNES_NS}}}name")
+            if owner_name is not None:
+                owner_name.text = CUSTOM_OWNER_NAME
+            channel.append(updated_child)
             continue
         if PUBLIC_FEED_URL and child.tag == f"{{{ITUNES_NS}}}new-feed-url":
             updated_child = copy.deepcopy(child)

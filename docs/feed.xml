@@ -1,30 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:sr="http://www.sverigesradio.se/podrss" version="2.0">
   <channel>
-    <itunes:new-feed-url>https://api.sr.se/api/rss/pod/23791</itunes:new-feed-url>
-    <atom:link href="https://api.sr.se/api/rss/pod/23791" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 12 Apr 2026 14:48:24 GMT</lastBuildDate>
+    <itunes:new-feed-url>https://gusost.github.io/sr-play/feed.xml</itunes:new-feed-url>
+    <atom:link href="https://gusost.github.io/sr-play/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Apr 2026 15:47:03 GMT</lastBuildDate>
     <image>
-      <title>P3 Historia</title>
+      <title>P3 Historia (Komplett arkiv)</title>
       <link>https://www.sverigesradio.se/p3historia</link>
       <url>https://static-cdn.sr.se/images/5067/da3284ce-d411-4bfa-af1d-fee758761383.jpg?preset=api-itunes-presentation-image</url>
     </image>
     <itunes:image href="https://static-cdn.sr.se/images/5067/da3284ce-d411-4bfa-af1d-fee758761383.jpg?preset=api-itunes-presentation-image" />
     <itunes:explicit>false</itunes:explicit>
-    <itunes:summary>Om personerna som skapade vår historia. Missade du historielektionerna har du en ny chans nu! Lyssna på alla avsnitt i Sveriges Radios app. Ansvarig utgivare: Caroline Pouron</itunes:summary>
+    <itunes:summary>Om personerna som skapade vår historia. Missade du historielektionerna har du en ny chans nu! Lyssna på alla avsnitt i Sveriges Radios app. Ansvarig utgivare: Caroline Pouron Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas i Sveriges Radios vanliga poddflöde.</itunes:summary>
     <itunes:author>Sveriges Radio</itunes:author>
     <itunes:category text="History" />
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Documentary" />
     </itunes:category>
     <itunes:owner>
-      <itunes:name>P3 Historia</itunes:name>
+      <itunes:name>P3 Historia (Komplett arkiv)</itunes:name>
       <itunes:email>podd@sverigesradio.se</itunes:email>
     </itunes:owner>
-    <title>P3 Historia</title>
+    <title>P3 Historia (Komplett arkiv)</title>
     <link>https://www.sverigesradio.se/p3historia</link>
     <description>Om personerna som skapade vår historia. Missade du historielektionerna har du en ny chans nu! &lt;a href="https://sverigesradio.se/play/program/5067?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=program_p3historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;
-Ansvarig utgivare: Caroline Pouron</description>
+Ansvarig utgivare: Caroline Pouron
+Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas i Sveriges Radios vanliga poddflöde.</description>
     <language>sv</language>
     <copyright>Copyright Sveriges Radio 2026. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">se</media:restriction>
