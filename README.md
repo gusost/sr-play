@@ -2,7 +2,7 @@
 
 Kompletterande RSS-flöde för `P3 Historia`.
 
-Projektet bygger ett eget `feed.xml` som utgår från Sveriges Radios vanliga podd-RSS och fyller på med publika avsnitt som finns på webben men saknas i originalflödet.
+Projektet bygger ett eget `feed.xml` som utgår från Sveriges Radios vanliga podd-RSS och fyller på med publika avsnitt från Sveriges Radios API som saknas i originalflödet.
 
 ## Vad som finns här
 
@@ -35,10 +35,10 @@ https://gusost.github.io/sr-play/feed.xml
 ## Hur feeden byggs
 
 1. Läs SR:s podd-RSS: `https://api.sr.se/api/rss/pod/23791`
-2. Hämta alla publika avsnitt från `https://www.sverigesradio.se/p3historia`
-3. Fortsätt via SR:s publika `show more`-endpoint tills inga fler avsnitt returneras
+2. Hämta alla publika avsnitt från `https://api.sr.se/api/v2/episodes/index?programid=5067`
+3. Fortsätt genom API:ets paginerade svar tills alla avsnitt är hämtade
 4. Lägg till avsnitt som saknas i original-RSS
-5. Använd avsnittssidan som fallback när listningen saknar komplett metadata
+5. Använd API:ets avsnittsdetaljer som fallback när indexsvaret saknar komplett ljudmetadata
 
 ## Uppdatering
 

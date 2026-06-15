@@ -12,7 +12,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 from dataclasses import dataclass
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
 import xml.etree.ElementTree as ET
@@ -20,6 +20,11 @@ import xml.etree.ElementTree as ET
 
 BASE_URL = "https://www.sverigesradio.se"
 SOURCE_RSS_URL = "https://api.sr.se/api/rss/pod/23791"
+EPISODES_API_URL = (
+    "https://api.sr.se/api/v2/episodes/index"
+    "?programid=5067&format=json&size=100&page={page}"
+)
+EPISODE_API_URL = "https://api.sr.se/api/v2/episodes/get?id={episode_id}&format=json"
 PROGRAM_URL = f"{BASE_URL}/p3historia"
 SHOW_MORE_URL = (
     f"{BASE_URL}/ajax/showmoreepisodelistitems"
@@ -85,6 +90,14 @@ def parse_sr_datetime(value: str) -> datetime:
     return datetime.strptime(value, "%Y-%m-%d %H:%M:%SZ")
 
 
+def parse_sr_api_datetime(value: str) -> datetime:
+    match = re.search(r"/Date\((?P<milliseconds>\d+)\)/", value)
+    if not match:
+        raise ValueError(f"Unsupported SR API date: {value}")
+    milliseconds = int(match.group("milliseconds"))
+    return datetime.fromtimestamp(milliseconds / 1000, timezone.utc).replace(tzinfo=None)
+
+
 def format_rss_date(value: datetime) -> str:
     return email.utils.format_datetime(value)
 
@@ -124,6 +137,8 @@ class WebEpisode:
     duration: str | None = None
     image_url: str | None = None
     audio_url: str | None = None
+    audio_type: str = "audio/mpeg"
+    audio_length: int | None = None
     guid: str | None = None
 
 
@@ -201,23 +216,68 @@ def stockholm_date_param() -> str:
 
 def fetch_all_web_episodes() -> list[WebEpisode]:
     seen: dict[str, WebEpisode] = {}
-    date_param = stockholm_date_param()
-
-    first_page_html = fetch_text(PROGRAM_URL)
-    for episode in extract_list_episodes(first_page_html):
-        seen.setdefault(episode.episode_id, episode)
 
     page = 1
     while True:
-        html_page = fetch_text(SHOW_MORE_URL.format(page=page, date_param=date_param))
-        page_episodes = extract_list_episodes(html_page)
+        api_payload = json.loads(fetch_text(EPISODES_API_URL.format(page=page)))
+        page_episodes = [
+            parse_api_episode(episode)
+            for episode in api_payload.get("episodes", [])
+        ]
         if not page_episodes:
             break
         for episode in page_episodes:
             seen.setdefault(episode.episode_id, episode)
+        pagination = api_payload.get("pagination", {})
+        if page >= int(pagination.get("totalpages", page)):
+            break
         page += 1
 
     return sorted(seen.values(), key=lambda episode: episode.pub_date, reverse=True)
+
+
+def parse_api_episode(episode: dict) -> WebEpisode:
+    audio_file = select_api_audio_file(episode)
+    image_url = episode.get("imageurltemplate") or episode.get("imageurl")
+    return WebEpisode(
+        episode_id=str(episode["id"]),
+        title=clean_html_text(episode.get("title", "")),
+        link=episode.get("url") or f"{BASE_URL}/avsnitt/{episode['id']}",
+        pub_date=parse_sr_api_datetime(episode["publishdateutc"]),
+        description=clean_html_text(episode.get("description", "")),
+        duration=duration_seconds_to_text(int(audio_file["duration"]))
+        if audio_file.get("duration")
+        else None,
+        image_url=ensure_absolute_url(image_url),
+        audio_url=ensure_absolute_url(audio_file.get("url")),
+        audio_type=audio_type_for_url(audio_file.get("url", "")),
+        audio_length=int(audio_file["filesizeinbytes"])
+        if audio_file.get("filesizeinbytes")
+        else None,
+        guid=None,
+    )
+
+
+def select_api_audio_file(episode: dict) -> dict:
+    if episode.get("downloadpodfile"):
+        return episode["downloadpodfile"]
+    if episode.get("listenpodfile"):
+        return episode["listenpodfile"]
+    broadcast_files = episode.get("broadcast", {}).get("broadcastfiles", [])
+    if broadcast_files:
+        return broadcast_files[0]
+    return {}
+
+
+def audio_type_for_url(url: str) -> str:
+    if url.lower().endswith(".m4a"):
+        return "audio/mp4"
+    return "audio/mpeg"
+
+
+def enrich_from_api_episode(episode: WebEpisode) -> WebEpisode:
+    api_payload = json.loads(fetch_text(EPISODE_API_URL.format(episode_id=episode.episode_id)))
+    return parse_api_episode(api_payload["episode"])
 
 
 def _decode_json_string(value: str) -> str:
@@ -319,8 +379,8 @@ def build_web_only_item(episode: WebEpisode) -> ET.Element:
             "enclosure",
             {
                 "url": episode.audio_url,
-                "length": "0",
-                "type": "audio/mpeg",
+                "length": str(episode.audio_length or 0),
+                "type": episode.audio_type,
             },
         )
 
@@ -412,19 +472,19 @@ def main() -> int:
     rss_episode_ids = {episode_id for _, episode_id, _ in rss_items}
     log(f"Source RSS episodes: {len(rss_episode_ids)}")
 
-    log("Fetching public web episode archive...")
+    log("Fetching official SR episode API...")
     web_episodes = fetch_all_web_episodes()
-    log(f"Public web episodes: {len(web_episodes)}")
+    log(f"Public API episodes: {len(web_episodes)}")
 
     missing_web_episodes = [
         episode for episode in web_episodes if episode.episode_id not in rss_episode_ids
     ]
-    log(f"Web-only episodes to add: {len(missing_web_episodes)}")
+    log(f"API-only episodes to add: {len(missing_web_episodes)}")
 
     enriched_missing_episodes: list[WebEpisode] = []
     for episode in missing_web_episodes:
-        if not (episode.audio_url and episode.description and episode.image_url and episode.duration):
-            episode = enrich_from_episode_page(episode)
+        if not episode.audio_url:
+            episode = enrich_from_api_episode(episode)
         if not episode.audio_url:
             raise RuntimeError(
                 f"Missing audio URL for episode {episode.episode_id} ({episode.title})."

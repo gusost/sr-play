@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://gusost.github.io/sr-play/feed.xml</itunes:new-feed-url>
     <atom:link href="https://gusost.github.io/sr-play/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 12 Apr 2026 15:47:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 18:26:00 GMT</lastBuildDate>
     <image>
       <title>P3 Historia (Komplett arkiv)</title>
       <link>https://www.sverigesradio.se/p3historia</link>
@@ -30,22 +30,87 @@ Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas 
     <copyright>Copyright Sveriges Radio 2026. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">se</media:restriction>
     <item>
-      <title>Johanna I av Neapel – makt, mord och blodig kamp om kronan</title>
-      <description>En medeltida mäktig drottning som ständigt hotades av krig och maktkamper på liv och död.</description>
-      <link>https://www.sverigesradio.se/avsnitt/johanna-i-av-neapel</link>
-      <guid isPermaLink="false">sr-play:episode:2771023</guid>
-      <pubDate>Thu, 09 Apr 2026 07:00:00 -0000</pubDate>
+      <title>Hannibal – Roms värsta fiende</title>
+      <description>&lt;p&gt;Generalen som vigde sitt liv åt en enda kamp: att till varje pris, och till sista blodsdroppen, krossa sin motståndare  det mäktiga Romarriket.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/play/program/5067?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Redaktionen för det här avsnittet är:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Elina Perdahl – programledare och manus&lt;/p&gt;&lt;p&gt;Mårten Andersson – producent&lt;/p&gt;&lt;p&gt;Zardasht Rad – scenuppläsare&lt;/p&gt;&lt;p&gt;Viktor Bergdahl – ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;Medverkar gör också Allan Klynne, doktor i antikens kultur och samhällsliv och författare till boken “Hannibal och andra puniska kriget”.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Vill du veta mer om Hannibal och hans tid? Här är några av böckerna som ligger till grund för avsnittet:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hannibal och det andra puniska kriget &lt;/em&gt;av Allan Klynne&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hannibal &lt;/em&gt;av Philip Freeman&lt;/p&gt;&lt;p&gt;&lt;em&gt;Puniska krigen &lt;/em&gt;av Adrian Goldsworth&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hannibal – enemy of Rome &lt;/em&gt;av Leonard Cottrell&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hannibal &lt;/em&gt;av Serge Lancel&lt;/p&gt;</description>
+      <link>https://www.sverigesradio.se/avsnitt/2789910</link>
+      <guid isPermaLink="false">rss:sr.se/pod/eid/2789910</guid>
+      <pubDate>Thu, 04 Jun 2026 05:00:00 GMT</pubDate>
       <sr:programid>5067</sr:programid>
       <sr:poddid>23791</sr:poddid>
+      <itunes:summary>&lt;p&gt;Generalen som vigde sitt liv åt en enda kamp: att till varje pris, och till sista blodsdroppen, krossa sin motståndare  det mäktiga Romarriket.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/play/program/5067?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Redaktionen för det här avsnittet är:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Elina Perdahl – programledare och manus&lt;/p&gt;&lt;p&gt;Mårten Andersson – producent&lt;/p&gt;&lt;p&gt;Zardasht Rad – scenuppläsare&lt;/p&gt;&lt;p&gt;Viktor Bergdahl – ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;Medverkar gör också Allan Klynne, doktor i antikens kultur och samhällsliv och författare till boken “Hannibal och andra puniska kriget”.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Vill du veta mer om Hannibal och hans tid? Här är några av böckerna som ligger till grund för avsnittet:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hannibal och det andra puniska kriget &lt;/em&gt;av Allan Klynne&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hannibal &lt;/em&gt;av Philip Freeman&lt;/p&gt;&lt;p&gt;&lt;em&gt;Puniska krigen &lt;/em&gt;av Adrian Goldsworth&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hannibal – enemy of Rome &lt;/em&gt;av Leonard Cottrell&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hannibal &lt;/em&gt;av Serge Lancel&lt;/p&gt;</itunes:summary>
       <itunes:author>Sveriges Radio</itunes:author>
-      <itunes:summary>En medeltida mäktig drottning som ständigt hotades av krig och maktkamper på liv och död.</itunes:summary>
-      <itunes:subtitle>En medeltida mäktig drottning som ständigt hotades av krig och maktkamper på liv och död.</itunes:subtitle>
-      <itunes:image href="https://static-cdn.sr.se/images/5067/b4db0ebe-bda5-4979-a654-e62392194b50.jpg?preset=audio-box-foldable-episode" />
-      <itunes:duration>01:00:00</itunes:duration>
-      <enclosure url="https://sverigesradio.se/topsy/ljudfil/srse/10132323.mp3" length="0" type="audio/mpeg" />
+      <itunes:keywords>P3,Historia,Hannibal,– Roms,värsta,fiende</itunes:keywords>
+      <itunes:image href="https://static-cdn.sr.se/images/5067/cb3d9888-f4d4-45ee-afae-0f310d67c82d.jpg?preset=api-itunes-presentation-image" />
+      <itunes:duration>00:59:03</itunes:duration>
+      <itunes:subtitle>Generalen som vigde sitt liv åt en enda kamp: att till varje pris, och till sista blodsdroppen, krossa sin motståndare  det mäktiga Romarriket.</itunes:subtitle>
+      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2026/06/p3_historia_hannibal_roms_varsta_fiende_20260615_1337438621.mp3" length="56705643" type="audio/mpeg" />
     </item>
     <item>
-      <title>Elvira Madigan – En cirkusprinsessas tragiska öde</title>
+      <title>Slottet brinner – när Tre Kronor slukades av lågorna</title>
+      <description>&lt;p&gt;Det här är berättelsen om när det kungliga slottet Tre kronor brann ned  och tog med sig oskattbara delar av rikets historia i lågorna.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/play/program/5067?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Redaktionen för det här avsnittet är:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cecilia Düringer – programledare och manus&lt;/p&gt;&lt;p&gt;Emilia Mellberg – producent, manus och research&lt;/p&gt;&lt;p&gt;Zardasht Rad – scenuppläsare&lt;/p&gt;&lt;p&gt;Viktor Bergdahl – ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;Medverkar gör också&amp;nbsp;Jonas Rosin, museipedagog vid de Kungliga slotten.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Vill du veta mer om branden på Tre kronor? Här är några av böckerna som ligger till grund för avsnittet:&lt;/p&gt;&lt;p&gt;Slottet brinner! av Magnus Jacobson&lt;/p&gt;&lt;p&gt;Stockholm i lågor av Bo Grandien&lt;/p&gt;&lt;p&gt;Sveriges historia. 1600-1721 : stormaktskrigen av Nils Erik Villstrand&lt;/p&gt;</description>
+      <link>https://www.sverigesradio.se/avsnitt/2771668</link>
+      <guid isPermaLink="false">rss:sr.se/pod/eid/2771668</guid>
+      <pubDate>Thu, 28 May 2026 09:45:00 GMT</pubDate>
+      <sr:programid>5067</sr:programid>
+      <sr:poddid>23791</sr:poddid>
+      <itunes:summary>&lt;p&gt;Det här är berättelsen om när det kungliga slottet Tre kronor brann ned  och tog med sig oskattbara delar av rikets historia i lågorna.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/play/program/5067?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Redaktionen för det här avsnittet är:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cecilia Düringer – programledare och manus&lt;/p&gt;&lt;p&gt;Emilia Mellberg – producent, manus och research&lt;/p&gt;&lt;p&gt;Zardasht Rad – scenuppläsare&lt;/p&gt;&lt;p&gt;Viktor Bergdahl – ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;Medverkar gör också&amp;nbsp;Jonas Rosin, museipedagog vid de Kungliga slotten.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Vill du veta mer om branden på Tre kronor? Här är några av böckerna som ligger till grund för avsnittet:&lt;/p&gt;&lt;p&gt;Slottet brinner! av Magnus Jacobson&lt;/p&gt;&lt;p&gt;Stockholm i lågor av Bo Grandien&lt;/p&gt;&lt;p&gt;Sveriges historia. 1600-1721 : stormaktskrigen av Nils Erik Villstrand&lt;/p&gt;</itunes:summary>
+      <itunes:author>Sveriges Radio</itunes:author>
+      <itunes:keywords>P3,Historia,Slottet,brinner,när,Tre,Kronor,slukades,av,lågorna</itunes:keywords>
+      <itunes:image href="https://static-cdn.sr.se/images/5067/98040a2f-d907-4275-99ff-5d33a9ef349e.jpg?preset=api-itunes-presentation-image" />
+      <itunes:duration>00:49:43</itunes:duration>
+      <itunes:subtitle>Det här är berättelsen om när det kungliga slottet Tre kronor brann ned  och tog med sig oskattbara delar av rikets historia i lågorna.</itunes:subtitle>
+      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2026/05/p3_historia_slottet_brinner__nar_tre_kron_20260518_1218403025.mp3" length="47752316" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Cecilia rekommenderar: Karl XI</title>
+      <description>&lt;p&gt;Vi plockar åter fram vårt avsnitt om den osäkra prinsen som fick axla kungamanteln alltför tidigt, men som växte upp till en stark och enväldig stormaktsförsvarare.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/play/program/5067?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Redaktionen för detta avsnitt består av:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cecilia Düringer - programledare och manus&lt;br&gt;Mårten Andersson - producent och manus&lt;br&gt;Pablo Leiva Wenger - scenuppläsare&lt;br&gt;Julia Öjbrandt– ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;Medverkar i avsnittet gör även Erik Petersson, historiker och författare.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Här är några av de böcker som legat till grund för avsnittet:&lt;/strong&gt;&lt;br&gt;&lt;em&gt;Karl XI&lt;/em&gt; av Göran Rystad&lt;br&gt;&lt;em&gt;Tre Karlar&lt;/em&gt; av Gudrun Ekstrand&lt;br&gt;&lt;em&gt;Karl XI&lt;/em&gt; av Alf Åberg&lt;br&gt;&lt;em&gt;Karl XI &lt;/em&gt;av Sixten Svensson&lt;/p&gt;</description>
+      <link>https://www.sverigesradio.se/avsnitt/2761005</link>
+      <guid isPermaLink="false">rss:sr.se/pod/eid/2761005</guid>
+      <pubDate>Thu, 14 May 2026 05:00:00 GMT</pubDate>
+      <sr:programid>5067</sr:programid>
+      <sr:poddid>23791</sr:poddid>
+      <itunes:summary>&lt;p&gt;Vi plockar åter fram vårt avsnitt om den osäkra prinsen som fick axla kungamanteln alltför tidigt, men som växte upp till en stark och enväldig stormaktsförsvarare.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/play/program/5067?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Redaktionen för detta avsnitt består av:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cecilia Düringer - programledare och manus&lt;br&gt;Mårten Andersson - producent och manus&lt;br&gt;Pablo Leiva Wenger - scenuppläsare&lt;br&gt;Julia Öjbrandt– ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;Medverkar i avsnittet gör även Erik Petersson, historiker och författare.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Här är några av de böcker som legat till grund för avsnittet:&lt;/strong&gt;&lt;br&gt;&lt;em&gt;Karl XI&lt;/em&gt; av Göran Rystad&lt;br&gt;&lt;em&gt;Tre Karlar&lt;/em&gt; av Gudrun Ekstrand&lt;br&gt;&lt;em&gt;Karl XI&lt;/em&gt; av Alf Åberg&lt;br&gt;&lt;em&gt;Karl XI &lt;/em&gt;av Sixten Svensson&lt;/p&gt;</itunes:summary>
+      <itunes:author>Sveriges Radio</itunes:author>
+      <itunes:keywords>P3,Historia,Cecilia,rekommenderar:,Karl,XI</itunes:keywords>
+      <itunes:image href="https://static-cdn.sr.se/images/5067/e949792a-a03c-4832-bb8a-35c3d4118f56.jpg?preset=api-itunes-presentation-image" />
+      <itunes:duration>00:54:56</itunes:duration>
+      <itunes:subtitle>Vi plockar åter fram vårt avsnitt om den osäkra prinsen som fick axla kungamanteln alltför tidigt, men som växte upp till en stark och enväldig stormaktsförsvarare.</itunes:subtitle>
+      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2026/02/p3_historia_cecilia_rekommenderar_karl_xi_20260223_1107099460.mp3" length="52763904" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Ellen Key – provocerande tänkare före sin tid</title>
+      <description>&lt;p&gt;Filosofen som stred för kvinnans och barnens rättigheter, men som också retade upp både samtid och eftervärld  och fortfarande både provocerar och engagerar.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/play/program/5067?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Redaktionen för det här avsnittet är:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cecilia Düringer – programledare och manus&lt;/p&gt;&lt;p&gt;Mårten Andersson – producent, manus och research&lt;/p&gt;&lt;p&gt;Zardasht Rad – scenuppläsare&lt;/p&gt;&lt;p&gt;Viktor Bergdahl – ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;Medverkar gör också&amp;nbsp;Anneli Jordahl, författare till romanen Jag skulle vara din hund (om jag bara finge vara i din närhet).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Vill du veta mer om Ellen Key? Här är några av böckerna som ligger till grund för avsnittet:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Ellen Key : en europeisk intellektuell&lt;/em&gt; av Ronny Ambjörnsson&lt;/p&gt;&lt;p&gt;&lt;em&gt;Ellen Key 1849-1999, en minnesbok.&lt;/em&gt; Redaktör dr Birgit Gerhardsson&lt;/p&gt;&lt;p&gt;&lt;em&gt;Om kärlek&lt;/em&gt; av Claudia Lindén&lt;/p&gt;&lt;p&gt;&lt;em&gt;Från upplevelse till tanke 1-4&lt;/em&gt; av Catharina Hällström&lt;/p&gt;&lt;p&gt;&lt;em&gt;Ellen Keys vänstra öga&lt;/em&gt; av Lena Johannesson&lt;/p&gt;</description>
+      <link>https://www.sverigesradio.se/avsnitt/2771115</link>
+      <guid isPermaLink="false">rss:sr.se/pod/eid/2771115</guid>
+      <pubDate>Thu, 30 Apr 2026 05:00:00 GMT</pubDate>
+      <sr:programid>5067</sr:programid>
+      <sr:poddid>23791</sr:poddid>
+      <itunes:summary>&lt;p&gt;Filosofen som stred för kvinnans och barnens rättigheter, men som också retade upp både samtid och eftervärld  och fortfarande både provocerar och engagerar.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/play/program/5067?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Redaktionen för det här avsnittet är:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cecilia Düringer – programledare och manus&lt;/p&gt;&lt;p&gt;Mårten Andersson – producent, manus och research&lt;/p&gt;&lt;p&gt;Zardasht Rad – scenuppläsare&lt;/p&gt;&lt;p&gt;Viktor Bergdahl – ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;Medverkar gör också&amp;nbsp;Anneli Jordahl, författare till romanen Jag skulle vara din hund (om jag bara finge vara i din närhet).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Vill du veta mer om Ellen Key? Här är några av böckerna som ligger till grund för avsnittet:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Ellen Key : en europeisk intellektuell&lt;/em&gt; av Ronny Ambjörnsson&lt;/p&gt;&lt;p&gt;&lt;em&gt;Ellen Key 1849-1999, en minnesbok.&lt;/em&gt; Redaktör dr Birgit Gerhardsson&lt;/p&gt;&lt;p&gt;&lt;em&gt;Om kärlek&lt;/em&gt; av Claudia Lindén&lt;/p&gt;&lt;p&gt;&lt;em&gt;Från upplevelse till tanke 1-4&lt;/em&gt; av Catharina Hällström&lt;/p&gt;&lt;p&gt;&lt;em&gt;Ellen Keys vänstra öga&lt;/em&gt; av Lena Johannesson&lt;/p&gt;</itunes:summary>
+      <itunes:author>Sveriges Radio</itunes:author>
+      <itunes:keywords>P3,Historia,Ellen,Key,– provocerande,tänkare,före,sin,tid</itunes:keywords>
+      <itunes:image href="https://static-cdn.sr.se/images/5067/fcd39f30-4454-4dd5-85f5-cfc415b16c39.jpg?preset=api-itunes-presentation-image" />
+      <itunes:duration>00:52:51</itunes:duration>
+      <itunes:subtitle>Filosofen som stred för kvinnans och barnens rättigheter, men som också retade upp både samtid och eftervärld  och fortfarande både provocerar och engagerar.</itunes:subtitle>
+      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2026/04/p3_historia_ellen_key_provocerande_tanka_20260421_1437234135.mp3" length="50759826" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Johanna I av Neapel – makt, mord och blodig kamp om kronan</title>
+      <description>&lt;p&gt;En medeltida mäktig drottning som ständigt hotades av krig och maktkamper på liv och död.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/play/program/5067?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Redaktionen för det här avsnittet är:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Elina Perdahl – programledare, manus&lt;/p&gt;&lt;p&gt;Emilia Mellberg – producent&amp;nbsp;&lt;/p&gt;&lt;p&gt;Zardasht Rad – scenuppläsare&lt;/p&gt;&lt;p&gt;Viktor Bergdahl – ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Medverkar gör också Anna Carlstedt, forskare och författare som skriver om kvinnliga regenter i vår historia.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Vill du veta mer om Johanna av Neapel? Här är några av böckerna som ligger till grund för avsnittet:&lt;/p&gt;&lt;p&gt;The lady queen – the notorious reign of Joanna I, Queen of Naples, Jerusalem, and Sicily av Nancy Goldstone&lt;/p&gt;&lt;p&gt;Forgotten queens in medieval and early modern Europe political agency, myth-making, and patronage av Valerie Schutte och Estelle Paranque.&lt;/p&gt;&lt;p&gt;Beautiful Queen, Joanna I of Naples av Darley Dale&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+      <link>https://www.sverigesradio.se/avsnitt/2771023</link>
+      <guid isPermaLink="false">rss:sr.se/pod/eid/2771023</guid>
+      <pubDate>Thu, 16 Apr 2026 05:00:00 GMT</pubDate>
+      <sr:programid>5067</sr:programid>
+      <sr:poddid>23791</sr:poddid>
+      <itunes:summary>&lt;p&gt;En medeltida mäktig drottning som ständigt hotades av krig och maktkamper på liv och död.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/play/program/5067?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Redaktionen för det här avsnittet är:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Elina Perdahl – programledare, manus&lt;/p&gt;&lt;p&gt;Emilia Mellberg – producent&amp;nbsp;&lt;/p&gt;&lt;p&gt;Zardasht Rad – scenuppläsare&lt;/p&gt;&lt;p&gt;Viktor Bergdahl – ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Medverkar gör också Anna Carlstedt, forskare och författare som skriver om kvinnliga regenter i vår historia.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Vill du veta mer om Johanna av Neapel? Här är några av böckerna som ligger till grund för avsnittet:&lt;/p&gt;&lt;p&gt;The lady queen – the notorious reign of Joanna I, Queen of Naples, Jerusalem, and Sicily av Nancy Goldstone&lt;/p&gt;&lt;p&gt;Forgotten queens in medieval and early modern Europe political agency, myth-making, and patronage av Valerie Schutte och Estelle Paranque.&lt;/p&gt;&lt;p&gt;Beautiful Queen, Joanna I of Naples av Darley Dale&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</itunes:summary>
+      <itunes:author>Sveriges Radio</itunes:author>
+      <itunes:keywords>P3,Historia,Johanna,I,av,Neapel,makt,,mord,och,blodig,kamp,om,kronan</itunes:keywords>
+      <itunes:image href="https://static-cdn.sr.se/images/5067/b4db0ebe-bda5-4979-a654-e62392194b50.jpg?preset=api-itunes-presentation-image" />
+      <itunes:duration>00:59:35</itunes:duration>
+      <itunes:subtitle>En medeltida mäktig drottning som ständigt hotades av krig och maktkamper på liv och död.</itunes:subtitle>
+      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2026/04/p3_historia_johanna_i_av_neapel__makt_mo_20260413_0942239383.mp3" length="57219791" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Elvira Madigan – en cirkusprinsessas tragiska öde</title>
       <description>&lt;p&gt;En ung kvinna som sades älska så högt att hon gick i döden för sin kärlek  men som i själva verket fick sitt liv stulet av en hänsynslös mördare.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/play/program/5067?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Redaktionen för det här avsnittet är:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cecilia Düringer – programledare och manus&lt;/p&gt;&lt;p&gt;Mårten Andersson – producent, manus och research&lt;/p&gt;&lt;p&gt;Zardasht Rad – scenuppläsare&lt;/p&gt;&lt;p&gt;Viktor Bergdahl – ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;Medverkar gör också&amp;nbsp;Kathinka Lindhe, författare och journalist.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Vill du veta mer om Elvira Madigan? Här är några av böckerna som ligger till grund för avsnittet:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;En droppe föll - Elvira Madigan &lt;/em&gt;av Klas Grönqvist&lt;/p&gt;&lt;p&gt;&lt;em&gt;Vacker var han, utav börd: Sixten Sparre : Mannen som mördade Elvira Madigan&lt;/em&gt; av Kathinka Lindhe&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sorgeliga saker hände... : Elvira Madigan, Sixten och mig&lt;/em&gt; av Kathinka Lindhe&lt;/p&gt;</description>
       <link>https://www.sverigesradio.se/avsnitt/2767805</link>
       <guid isPermaLink="false">rss:sr.se/pod/eid/2767805</guid>
@@ -54,11 +119,11 @@ Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas 
       <sr:poddid>23791</sr:poddid>
       <itunes:summary>&lt;p&gt;En ung kvinna som sades älska så högt att hon gick i döden för sin kärlek  men som i själva verket fick sitt liv stulet av en hänsynslös mördare.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/play/program/5067?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Redaktionen för det här avsnittet är:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cecilia Düringer – programledare och manus&lt;/p&gt;&lt;p&gt;Mårten Andersson – producent, manus och research&lt;/p&gt;&lt;p&gt;Zardasht Rad – scenuppläsare&lt;/p&gt;&lt;p&gt;Viktor Bergdahl – ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;Medverkar gör också&amp;nbsp;Kathinka Lindhe, författare och journalist.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Vill du veta mer om Elvira Madigan? Här är några av böckerna som ligger till grund för avsnittet:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;En droppe föll - Elvira Madigan &lt;/em&gt;av Klas Grönqvist&lt;/p&gt;&lt;p&gt;&lt;em&gt;Vacker var han, utav börd: Sixten Sparre : Mannen som mördade Elvira Madigan&lt;/em&gt; av Kathinka Lindhe&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sorgeliga saker hände... : Elvira Madigan, Sixten och mig&lt;/em&gt; av Kathinka Lindhe&lt;/p&gt;</itunes:summary>
       <itunes:author>Sveriges Radio</itunes:author>
-      <itunes:keywords>P3,Historia,Elvira,Madigan,En,cirkusprinsessas,tragiska,öde</itunes:keywords>
+      <itunes:keywords>P3,Historia,Elvira,Madigan,en,cirkusprinsessas,tragiska,öde</itunes:keywords>
       <itunes:image href="https://static-cdn.sr.se/images/5067/3630cefb-7d7f-46c0-a633-2e0386ab5d77.jpg?preset=api-itunes-presentation-image" />
       <itunes:duration>00:55:15</itunes:duration>
       <itunes:subtitle>En ung kvinna som sades älska så högt att hon gick i döden för sin kärlek  men som i själva verket fick sitt liv stulet av en hänsynslös mördare.</itunes:subtitle>
-      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2026/03/p3_historia_elvira_madigan__en_cirkusprin_20260325_1337442570.mp3" length="53068984" type="audio/mpeg" />
+      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2026/03/p3_historia_elvira_madigan__en_cirkusprin_20260611_1300588171.mp3" length="53068984" type="audio/mpeg" />
     </item>
     <item>
       <title>Mansa Musa – världshistoriens rikaste man?</title>
@@ -159,32 +224,32 @@ Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas 
     <item>
       <title>Andrées polarexpedition: Välkomna hem, del 3</title>
       <description>Del 3 av 3. Om de förlorade upptäckarnas resa över isen – fram till det oundvikliga slutet.</description>
-      <link>https://www.sverigesradio.se/avsnitt/valkomna-hem-andrees-polarexpedition-del-3</link>
+      <link>https://www.sverigesradio.se/avsnitt/2713095</link>
       <guid isPermaLink="false">sr-play:episode:2713095</guid>
-      <pubDate>Thu, 18 Dec 2025 07:02:00 -0000</pubDate>
+      <pubDate>Thu, 18 Dec 2025 06:02:00 -0000</pubDate>
       <sr:programid>5067</sr:programid>
       <sr:poddid>23791</sr:poddid>
       <itunes:author>Sveriges Radio</itunes:author>
       <itunes:summary>Del 3 av 3. Om de förlorade upptäckarnas resa över isen – fram till det oundvikliga slutet.</itunes:summary>
       <itunes:subtitle>Del 3 av 3. Om de förlorade upptäckarnas resa över isen – fram till det oundvikliga slutet.</itunes:subtitle>
-      <itunes:image href="https://static-cdn.sr.se/images/5067/551be452-0c6e-45bf-8855-201e76e97037.jpg?preset=audio-box-foldable-episode" />
-      <itunes:duration>00:47:00</itunes:duration>
-      <enclosure url="https://sverigesradio.se/topsy/ljudfil/srse/10012561.mp3" length="0" type="audio/mpeg" />
+      <itunes:image href="https://static-cdn.sr.se/images/5067/551be452-0c6e-45bf-8855-201e76e97037.jpg" />
+      <itunes:duration>00:46:41</itunes:duration>
+      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/12/p3_historia_andres_polarexpeditionvalko_20260211_0947439042.mp3" length="44837704" type="audio/mpeg" />
     </item>
     <item>
       <title>Andrées polarexpedition: Borta för evigt? del 2</title>
       <description>Del 2 av 3. Om en lång, tröstlös väntan – och en spektakulär upptäckt på otillgänglighetens ö.</description>
-      <link>https://www.sverigesradio.se/avsnitt/borta-for-evigt-andrees-polarexpedition-del-2</link>
+      <link>https://www.sverigesradio.se/avsnitt/2713094</link>
       <guid isPermaLink="false">sr-play:episode:2713094</guid>
-      <pubDate>Thu, 18 Dec 2025 07:01:00 -0000</pubDate>
+      <pubDate>Thu, 18 Dec 2025 06:01:00 -0000</pubDate>
       <sr:programid>5067</sr:programid>
       <sr:poddid>23791</sr:poddid>
       <itunes:author>Sveriges Radio</itunes:author>
       <itunes:summary>Del 2 av 3. Om en lång, tröstlös väntan – och en spektakulär upptäckt på otillgänglighetens ö.</itunes:summary>
       <itunes:subtitle>Del 2 av 3. Om en lång, tröstlös väntan – och en spektakulär upptäckt på otillgänglighetens ö.</itunes:subtitle>
-      <itunes:image href="https://static-cdn.sr.se/images/5067/59879458-22d1-48c4-b056-6d116b7b7b52.jpg?preset=audio-box-foldable-episode" />
-      <itunes:duration>00:40:00</itunes:duration>
-      <enclosure url="https://sverigesradio.se/topsy/ljudfil/srse/10012113.mp3" length="0" type="audio/mpeg" />
+      <itunes:image href="https://static-cdn.sr.se/images/5067/59879458-22d1-48c4-b056-6d116b7b7b52.jpg" />
+      <itunes:duration>00:39:48</itunes:duration>
+      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/12/p3_historia_andres_polarexpeditionborta_20260211_0947231171.mp3" length="38230231" type="audio/mpeg" />
     </item>
     <item>
       <title>Andrées polarexpedition: Avfärden, del 1</title>
@@ -237,17 +302,17 @@ Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas 
     <item>
       <title>Återuppståndelse – Mysteriet Anastasia, del 2</title>
       <description>Om en gåtfull gestalt, en osannolik historia, ett fåfängt hopp – och en smärtsam, bister sanning. Del 2 av 2.</description>
-      <link>https://www.sverigesradio.se/avsnitt/ateruppstandelse-mysteriet-anastasia-del-2</link>
+      <link>https://www.sverigesradio.se/avsnitt/2691652</link>
       <guid isPermaLink="false">sr-play:episode:2691652</guid>
-      <pubDate>Thu, 06 Nov 2025 07:01:00 -0000</pubDate>
+      <pubDate>Thu, 06 Nov 2025 06:01:00 -0000</pubDate>
       <sr:programid>5067</sr:programid>
       <sr:poddid>23791</sr:poddid>
       <itunes:author>Sveriges Radio</itunes:author>
       <itunes:summary>Om en gåtfull gestalt, en osannolik historia, ett fåfängt hopp – och en smärtsam, bister sanning. Del 2 av 2.</itunes:summary>
       <itunes:subtitle>Om en gåtfull gestalt, en osannolik historia, ett fåfängt hopp – och en smärtsam, bister sanning. Del 2 av 2.</itunes:subtitle>
-      <itunes:image href="https://static-cdn.sr.se/images/5067/4640ca29-e9ec-46bf-b39a-fc6be744606d.jpg?preset=audio-box-foldable-episode" />
-      <itunes:duration>00:47:00</itunes:duration>
-      <enclosure url="https://sverigesradio.se/topsy/ljudfil/srse/9982065.mp3" length="0" type="audio/mpeg" />
+      <itunes:image href="https://static-cdn.sr.se/images/5067/4640ca29-e9ec-46bf-b39a-fc6be744606d.jpg" />
+      <itunes:duration>00:47:23</itunes:duration>
+      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/11/p3_historia_teruppstandelse__mysteriet_a_20251119_1045274139.mp3" length="45516249" type="audio/mpeg" />
     </item>
     <item>
       <title>Liv och död – Mysteriet Anastasia, del 1</title>
@@ -412,32 +477,32 @@ Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas 
     <item>
       <title>Död och vedergällning – Mordet på Gustav III, del 3</title>
       <description>Om det plågsamma slutet – för både offer och gärningsman.</description>
-      <link>https://www.sverigesradio.se/avsnitt/dod-och-vedergallning-mordet-pa-gustav-iii-del-3</link>
+      <link>https://www.sverigesradio.se/avsnitt/2615454</link>
       <guid isPermaLink="false">sr-play:episode:2615454</guid>
-      <pubDate>Thu, 03 Jul 2025 07:02:00 -0000</pubDate>
+      <pubDate>Thu, 03 Jul 2025 05:02:00 -0000</pubDate>
       <sr:programid>5067</sr:programid>
       <sr:poddid>23791</sr:poddid>
       <itunes:author>Sveriges Radio</itunes:author>
       <itunes:summary>Om det plågsamma slutet – för både offer och gärningsman.</itunes:summary>
       <itunes:subtitle>Om det plågsamma slutet – för både offer och gärningsman.</itunes:subtitle>
-      <itunes:image href="https://static-cdn.sr.se/images/5067/fdc0d0f9-f649-4c5b-a480-f6706e6e6681.jpg?preset=audio-box-foldable-episode" />
-      <itunes:duration>00:52:00</itunes:duration>
-      <enclosure url="https://sverigesradio.se/topsy/ljudfil/srse/9815545.mp3" length="0" type="audio/mpeg" />
+      <itunes:image href="https://static-cdn.sr.se/images/5067/fdc0d0f9-f649-4c5b-a480-f6706e6e6681.jpg" />
+      <itunes:duration>00:52:17</itunes:duration>
+      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/06/p3_historia_dod_och_vedergallning__mordet_20250627_1516404936.mp3" length="50221662" type="audio/mpeg" />
     </item>
     <item>
       <title>Attentatet – Mordet på Gustav III, del 2</title>
       <description>Om den mordiska natten på Kungliga Operan.</description>
-      <link>https://www.sverigesradio.se/avsnitt/attentatet-mordet-pa-gustav-iii-del-2</link>
+      <link>https://www.sverigesradio.se/avsnitt/2615453</link>
       <guid isPermaLink="false">sr-play:episode:2615453</guid>
-      <pubDate>Thu, 03 Jul 2025 07:01:00 -0000</pubDate>
+      <pubDate>Thu, 03 Jul 2025 05:01:00 -0000</pubDate>
       <sr:programid>5067</sr:programid>
       <sr:poddid>23791</sr:poddid>
       <itunes:author>Sveriges Radio</itunes:author>
       <itunes:summary>Om den mordiska natten på Kungliga Operan.</itunes:summary>
       <itunes:subtitle>Om den mordiska natten på Kungliga Operan.</itunes:subtitle>
-      <itunes:image href="https://static-cdn.sr.se/images/5067/204eb18c-9224-42e2-9551-d074854d5322.jpg?preset=audio-box-foldable-episode" />
+      <itunes:image href="https://static-cdn.sr.se/images/5067/204eb18c-9224-42e2-9551-d074854d5322.jpg" />
       <itunes:duration>00:43:00</itunes:duration>
-      <enclosure url="https://sverigesradio.se/topsy/ljudfil/srse/9815368.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/06/p3_historia_attentatet__mordet_pa_gustav_20250627_1512577832.mp3" length="41310545" type="audio/mpeg" />
     </item>
     <item>
       <title>Attentatet mot Norrskensflamman – ett av 1900-talets värsta terrordåd</title>
@@ -538,17 +603,17 @@ Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas 
     <item>
       <title>Ett sorgligt fiasko – Vasaskeppet, del 2</title>
       <description>Om den svenska flottans stolthet som seglade rakt in i ett av de största militära haverierna i mannaminne.</description>
-      <link>https://www.sverigesradio.se/avsnitt/ett-sorgligt-fiasko-vasaskeppet-del-2</link>
+      <link>https://www.sverigesradio.se/avsnitt/2575700</link>
       <guid isPermaLink="false">sr-play:episode:2575700</guid>
-      <pubDate>Thu, 10 Apr 2025 07:01:00 -0000</pubDate>
+      <pubDate>Thu, 10 Apr 2025 05:01:00 -0000</pubDate>
       <sr:programid>5067</sr:programid>
       <sr:poddid>23791</sr:poddid>
       <itunes:author>Sveriges Radio</itunes:author>
       <itunes:summary>Om den svenska flottans stolthet som seglade rakt in i ett av de största militära haverierna i mannaminne.</itunes:summary>
       <itunes:subtitle>Om den svenska flottans stolthet som seglade rakt in i ett av de största militära haverierna i mannaminne.</itunes:subtitle>
-      <itunes:image href="https://static-cdn.sr.se/images/5067/c76fbe88-9c64-4e1c-ba69-e104718ec12d.jpg?preset=audio-box-foldable-episode" />
-      <itunes:duration>00:49:00</itunes:duration>
-      <enclosure url="https://sverigesradio.se/topsy/ljudfil/srse/9724884.mp3" length="0" type="audio/mpeg" />
+      <itunes:image href="https://static-cdn.sr.se/images/5067/c76fbe88-9c64-4e1c-ba69-e104718ec12d.jpg" />
+      <itunes:duration>00:49:28</itunes:duration>
+      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/04/p3_historia_ett_sorgligt_fiasko__vasaskep_20250408_1325223930.mp3" length="47516884" type="audio/mpeg" />
     </item>
     <item>
       <title>Cecilia rekommenderar: Karin Boye</title>
@@ -697,17 +762,17 @@ Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas 
     <item>
       <title>Mordet på Leon Trotskij – del 2</title>
       <description>Berättelsen om ett av 1900-talets mest uppmärksammade politiska attentat. Del 2 av 2: Ett oundvikligt slut.</description>
-      <link>https://www.sverigesradio.se/avsnitt/mordet-pa-leon-trotskij-del-2</link>
+      <link>https://www.sverigesradio.se/avsnitt/2515649</link>
       <guid isPermaLink="false">sr-play:episode:2515649</guid>
-      <pubDate>Thu, 19 Dec 2024 07:00:00 -0000</pubDate>
+      <pubDate>Thu, 19 Dec 2024 06:00:00 -0000</pubDate>
       <sr:programid>5067</sr:programid>
       <sr:poddid>23791</sr:poddid>
       <itunes:author>Sveriges Radio</itunes:author>
       <itunes:summary>Berättelsen om ett av 1900-talets mest uppmärksammade politiska attentat. Del 2 av 2: Ett oundvikligt slut.</itunes:summary>
       <itunes:subtitle>Berättelsen om ett av 1900-talets mest uppmärksammade politiska attentat. Del 2 av 2: Ett oundvikligt slut.</itunes:subtitle>
-      <itunes:image href="https://static-cdn.sr.se/images/5067/d76e55b3-20c0-457e-818a-47d5d8a4189d.jpg?preset=audio-box-foldable-episode" />
-      <itunes:duration>00:51:00</itunes:duration>
-      <enclosure url="https://sverigesradio.se/topsy/ljudfil/srse/9586028.mp3" length="0" type="audio/mpeg" />
+      <itunes:image href="https://static-cdn.sr.se/images/5067/d76e55b3-20c0-457e-818a-47d5d8a4189d.jpg" />
+      <itunes:duration>00:51:09</itunes:duration>
+      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2024/12/p3_historia_mordet_pa_leon_trotskij__del_20241209_1403307570.mp3" length="49127240" type="audio/mpeg" />
     </item>
     <item>
       <title>Alfred Nobel – dynamiten, drömmarna och priset</title>
@@ -760,17 +825,17 @@ Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas 
     <item>
       <title>Slaget vid Lützen – del 2</title>
       <description>Berättelsen om en av svensk historias mest besjungna händelser – slaget vid Lützen. Del 2 av 2: helvetets svalg öppnas.</description>
-      <link>https://www.sverigesradio.se/avsnitt/slaget-vid-lutzen-del-2</link>
+      <link>https://www.sverigesradio.se/avsnitt/2482459</link>
       <guid isPermaLink="false">sr-play:episode:2482459</guid>
-      <pubDate>Thu, 07 Nov 2024 07:01:00 -0000</pubDate>
+      <pubDate>Thu, 07 Nov 2024 06:01:00 -0000</pubDate>
       <sr:programid>5067</sr:programid>
       <sr:poddid>23791</sr:poddid>
       <itunes:author>Sveriges Radio</itunes:author>
       <itunes:summary>Berättelsen om en av svensk historias mest besjungna händelser – slaget vid Lützen. Del 2 av 2: helvetets svalg öppnas.</itunes:summary>
       <itunes:subtitle>Berättelsen om en av svensk historias mest besjungna händelser – slaget vid Lützen. Del 2 av 2: helvetets svalg öppnas.</itunes:subtitle>
-      <itunes:image href="https://static-cdn.sr.se/images/5067/c23cb5e7-0379-474d-9896-0c99b9cb3314.jpg?preset=audio-box-foldable-episode" />
-      <itunes:duration>00:50:00</itunes:duration>
-      <enclosure url="https://sverigesradio.se/topsy/ljudfil/srse/9522092.mp3" length="0" type="audio/mpeg" />
+      <itunes:image href="https://static-cdn.sr.se/images/5067/c23cb5e7-0379-474d-9896-0c99b9cb3314.jpg" />
+      <itunes:duration>00:49:54</itunes:duration>
+      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2024/10/p3_historia_slaget_vid_ltzen__del_2_20241209_1534128200.mp3" length="47929918" type="audio/mpeg" />
     </item>
     <item>
       <title>Cecilia rekommenderar: Heliga Birgitta</title>
@@ -903,32 +968,32 @@ Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas 
     <item>
       <title>Jack the Rippers offer – del 3</title>
       <description>Berättelsen om Jack the Rippers offer, fem kvinnor som föll i olycka i det viktorianska Londons slum – och blev seriemördarens rov. Del 3: Ondskan når sin kulmen.</description>
-      <link>https://www.sverigesradio.se/avsnitt/jack-the-rippers-offer-del-3</link>
+      <link>https://www.sverigesradio.se/avsnitt/2398616</link>
       <guid isPermaLink="false">sr-play:episode:2398616</guid>
-      <pubDate>Thu, 18 Jul 2024 07:02:00 -0000</pubDate>
+      <pubDate>Thu, 18 Jul 2024 05:02:00 -0000</pubDate>
       <sr:programid>5067</sr:programid>
       <sr:poddid>23791</sr:poddid>
       <itunes:author>Sveriges Radio</itunes:author>
       <itunes:summary>Berättelsen om Jack the Rippers offer, fem kvinnor som föll i olycka i det viktorianska Londons slum – och blev seriemördarens rov. Del 3: Ondskan når sin kulmen.</itunes:summary>
       <itunes:subtitle>Berättelsen om Jack the Rippers offer, fem kvinnor som föll i olycka i det viktorianska Londons slum – och blev seriemördarens rov. Del 3: Ondskan når sin kulmen.</itunes:subtitle>
-      <itunes:image href="https://static-cdn.sr.se/images/5067/f22bbf99-5c50-4c82-b7ea-68e676e65c9b.jpg?preset=audio-box-foldable-episode" />
-      <itunes:duration>00:47:00</itunes:duration>
-      <enclosure url="https://sverigesradio.se/topsy/ljudfil/srse/9392197.mp3" length="0" type="audio/mpeg" />
+      <itunes:image href="https://static-cdn.sr.se/images/5067/f22bbf99-5c50-4c82-b7ea-68e676e65c9b.jpg" />
+      <itunes:duration>00:46:50</itunes:duration>
+      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2024/07/p3_historia_jack_the_rippers_offer_del_3_20240712_1011054802.mp3" length="44980603" type="audio/mpeg" />
     </item>
     <item>
       <title>Jack the Rippers offer – del 2</title>
       <description>Om fem kvinnor som föll i olycka i det viktorianska Londons slum – och blev seriemördarens rov. Del 2: Monstret vaknar.</description>
-      <link>https://www.sverigesradio.se/avsnitt/jack-the-rippers-offer-del-2</link>
+      <link>https://www.sverigesradio.se/avsnitt/2398615</link>
       <guid isPermaLink="false">sr-play:episode:2398615</guid>
-      <pubDate>Thu, 18 Jul 2024 07:01:00 -0000</pubDate>
+      <pubDate>Thu, 18 Jul 2024 05:01:00 -0000</pubDate>
       <sr:programid>5067</sr:programid>
       <sr:poddid>23791</sr:poddid>
       <itunes:author>Sveriges Radio</itunes:author>
       <itunes:summary>Om fem kvinnor som föll i olycka i det viktorianska Londons slum – och blev seriemördarens rov. Del 2: Monstret vaknar.</itunes:summary>
       <itunes:subtitle>Om fem kvinnor som föll i olycka i det viktorianska Londons slum – och blev seriemördarens rov. Del 2: Monstret vaknar.</itunes:subtitle>
-      <itunes:image href="https://static-cdn.sr.se/images/5067/b9d2177f-652d-4bdc-9290-dbf3abdcda93.jpg?preset=audio-box-foldable-episode" />
-      <itunes:duration>00:54:00</itunes:duration>
-      <enclosure url="https://sverigesradio.se/topsy/ljudfil/srse/9391967.mp3" length="0" type="audio/mpeg" />
+      <itunes:image href="https://static-cdn.sr.se/images/5067/b9d2177f-652d-4bdc-9290-dbf3abdcda93.jpg" />
+      <itunes:duration>00:54:16</itunes:duration>
+      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2024/07/p3_historia_jack_the_rippers_offer__del_20240718_0740224584.mp3" length="52123012" type="audio/mpeg" />
     </item>
     <item>
       <title>Cecilia rekommenderar: Digerdöden</title>
@@ -1139,34 +1204,34 @@ Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas 
       <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2024/01/p3_historia_det_ododliga_vittnet_anne_fran_20240117_1108362195.mp3" length="46518567" type="audio/mpeg" />
     </item>
     <item>
-      <title>Det odödliga vittnet Anne Frank – del 2</title>
-      <description>Om den unga flickan vars unika vittnesmål överlevde nazisternas groteska folkmord och därmed gav röst åt de miljoner som tystades. Del 2 av 3: På flykt i sin egen stad.</description>
-      <link>https://www.sverigesradio.se/avsnitt/det-ododliga-vittnet-anne-frank-del-2</link>
-      <guid isPermaLink="false">sr-play:episode:2328286</guid>
-      <pubDate>Thu, 18 Jan 2024 07:02:00 -0000</pubDate>
-      <sr:programid>5067</sr:programid>
-      <sr:poddid>23791</sr:poddid>
-      <itunes:author>Sveriges Radio</itunes:author>
-      <itunes:summary>Om den unga flickan vars unika vittnesmål överlevde nazisternas groteska folkmord och därmed gav röst åt de miljoner som tystades. Del 2 av 3: På flykt i sin egen stad.</itunes:summary>
-      <itunes:subtitle>Om den unga flickan vars unika vittnesmål överlevde nazisternas groteska folkmord och därmed gav röst åt de miljoner som tystades. Del 2 av 3: På flykt i sin egen stad.</itunes:subtitle>
-      <itunes:image href="https://static-cdn.sr.se/images/5067/169a5f47-9db1-4e75-b57b-60e4691d130a.jpg?preset=audio-box-foldable-episode" />
-      <itunes:duration>00:48:00</itunes:duration>
-      <enclosure url="https://www.sverigesradio.se/topsy/ljudfil/9168452" length="0" type="audio/mpeg" />
-    </item>
-    <item>
       <title>Det odödliga vittnet Anne Frank – del 3</title>
       <description>Berättelsen om Anne Frank. Den unga flickan vars unika vittnesmål gav röst åt de miljoner som tystades i Förintelsen. Del 3: Död – och återuppståndelse</description>
-      <link>https://www.sverigesradio.se/avsnitt/det-ododliga-vittnet-anne-frank-del-3</link>
+      <link>https://www.sverigesradio.se/avsnitt/2328398</link>
       <guid isPermaLink="false">sr-play:episode:2328398</guid>
-      <pubDate>Thu, 18 Jan 2024 07:00:00 -0000</pubDate>
+      <pubDate>Thu, 18 Jan 2024 06:03:00 -0000</pubDate>
       <sr:programid>5067</sr:programid>
       <sr:poddid>23791</sr:poddid>
       <itunes:author>Sveriges Radio</itunes:author>
       <itunes:summary>Berättelsen om Anne Frank. Den unga flickan vars unika vittnesmål gav röst åt de miljoner som tystades i Förintelsen. Del 3: Död – och återuppståndelse</itunes:summary>
       <itunes:subtitle>Berättelsen om Anne Frank. Den unga flickan vars unika vittnesmål gav röst åt de miljoner som tystades i Förintelsen. Del 3: Död – och återuppståndelse</itunes:subtitle>
-      <itunes:image href="https://static-cdn.sr.se/images/5067/050575cf-984a-47f1-bebd-0ea0c1f46e1f.jpg?preset=audio-box-foldable-episode" />
-      <itunes:duration>00:54:00</itunes:duration>
-      <enclosure url="https://www.sverigesradio.se/topsy/ljudfil/9183129" length="0" type="audio/mpeg" />
+      <itunes:image href="https://static-cdn.sr.se/images/5067/050575cf-984a-47f1-bebd-0ea0c1f46e1f.jpg" />
+      <itunes:duration>00:54:13</itunes:duration>
+      <enclosure url="https://lyssna-cdn.sr.se/isidor/2024/01/p3_historia_det_ododliga_vittnet_anne_fran_20240126_1148406687_a32.m4a" length="0" type="audio/mp4" />
+    </item>
+    <item>
+      <title>Det odödliga vittnet Anne Frank – del 2</title>
+      <description>Om den unga flickan vars unika vittnesmål överlevde nazisternas groteska folkmord och därmed gav röst åt de miljoner som tystades. Del 2 av 3: På flykt i sin egen stad.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2328286</link>
+      <guid isPermaLink="false">sr-play:episode:2328286</guid>
+      <pubDate>Thu, 18 Jan 2024 06:02:00 -0000</pubDate>
+      <sr:programid>5067</sr:programid>
+      <sr:poddid>23791</sr:poddid>
+      <itunes:author>Sveriges Radio</itunes:author>
+      <itunes:summary>Om den unga flickan vars unika vittnesmål överlevde nazisternas groteska folkmord och därmed gav röst åt de miljoner som tystades. Del 2 av 3: På flykt i sin egen stad.</itunes:summary>
+      <itunes:subtitle>Om den unga flickan vars unika vittnesmål överlevde nazisternas groteska folkmord och därmed gav röst åt de miljoner som tystades. Del 2 av 3: På flykt i sin egen stad.</itunes:subtitle>
+      <itunes:image href="https://static-cdn.sr.se/images/5067/169a5f47-9db1-4e75-b57b-60e4691d130a.jpg" />
+      <itunes:duration>00:48:17</itunes:duration>
+      <enclosure url="https://lyssna-cdn.sr.se/isidor/2024/01/p3_historia_det_ododliga_vittnet_anne_fran_20240117_1215517202_a32.m4a" length="0" type="audio/mp4" />
     </item>
     <item>
       <title>Cecilia rekommenderar: Karl X Gustav</title>
@@ -1187,17 +1252,17 @@ Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas 
     <item>
       <title>Titanic och svenskarna ombord – del 2 av 2</title>
       <description>Berättelsen om Titanic – ett modernt under, en osänkbar dröm som krossades – och några av de svenskarna passagerarna. Del 2 av 2: förödelsens stund.</description>
-      <link>https://www.sverigesradio.se/avsnitt/titanic-och-svenskarna-ombord-del-2-av-2</link>
+      <link>https://www.sverigesradio.se/avsnitt/2317039</link>
       <guid isPermaLink="false">sr-play:episode:2317039</guid>
-      <pubDate>Thu, 28 Dec 2023 06:01:00 -0000</pubDate>
+      <pubDate>Thu, 28 Dec 2023 05:01:00 -0000</pubDate>
       <sr:programid>5067</sr:programid>
       <sr:poddid>23791</sr:poddid>
       <itunes:author>Sveriges Radio</itunes:author>
       <itunes:summary>Berättelsen om Titanic – ett modernt under, en osänkbar dröm som krossades – och några av de svenskarna passagerarna. Del 2 av 2: förödelsens stund.</itunes:summary>
       <itunes:subtitle>Berättelsen om Titanic – ett modernt under, en osänkbar dröm som krossades – och några av de svenskarna passagerarna. Del 2 av 2: förödelsens stund.</itunes:subtitle>
-      <itunes:image href="https://static-cdn.sr.se/images/5067/42b290cf-c1bd-4fd0-9ae3-6e314d00f87e.jpg?preset=audio-box-foldable-episode" />
-      <itunes:duration>00:55:00</itunes:duration>
-      <enclosure url="https://www.sverigesradio.se/topsy/ljudfil/9148420" length="0" type="audio/mpeg" />
+      <itunes:image href="https://static-cdn.sr.se/images/5067/42b290cf-c1bd-4fd0-9ae3-6e314d00f87e.jpg" />
+      <itunes:duration>00:54:33</itunes:duration>
+      <enclosure url="https://lyssna-cdn.sr.se/isidor/2024/01/p3_historia_titanic_och_svenskarna_ombord_20240102_1534283906_a32.m4a" length="0" type="audio/mp4" />
     </item>
     <item>
       <title>Titanic och svenskarna ombord – del 1 av 2</title>
@@ -4760,30 +4825,30 @@ Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas 
       <description>Om personerna som skapade vår historia. Missade du historielektionerna har du en ny chans nu!</description>
       <link>https://www.sverigesradio.se/avsnitt/1012354</link>
       <guid isPermaLink="false">sr-play:episode:1012354</guid>
-      <pubDate>Thu, 28 Dec 2017 23:07:00 -0000</pubDate>
+      <pubDate>Thu, 28 Dec 2017 22:07:00 -0000</pubDate>
       <sr:programid>5067</sr:programid>
       <sr:poddid>23791</sr:poddid>
       <itunes:author>Sveriges Radio</itunes:author>
       <itunes:summary>Om personerna som skapade vår historia. Missade du historielektionerna har du en ny chans nu!</itunes:summary>
       <itunes:subtitle>Om personerna som skapade vår historia. Missade du historielektionerna har du en ny chans nu!</itunes:subtitle>
-      <itunes:image href="https://static-cdn.sr.se/images/5067/91f573c0-8187-4f18-a2c4-8cdb200afcf1.jpg?preset=audio-box-foldable-episode" />
-      <itunes:duration>00:20:00</itunes:duration>
-      <enclosure url="https://www.sverigesradio.se/topsy/ljudfil/6336463" length="0" type="audio/mpeg" />
+      <itunes:image href="https://static-cdn.sr.se/images/5067/91f573c0-8187-4f18-a2c4-8cdb200afcf1.jpg" />
+      <itunes:duration>00:20:18</itunes:duration>
+      <enclosure url="https://lyssna-cdn.sr.se/isidor/mp/webb_rh__sthlm/2017/12/47_P3_Historia_pa_latt_svens_5a4648ce_a32.m4a" length="0" type="audio/mp4" />
     </item>
     <item>
       <title>P3 Historia</title>
       <description>Om personerna som skapade vår historia. Missade du historielektionerna har du en ny chans nu!</description>
       <link>https://www.sverigesradio.se/avsnitt/1005135</link>
       <guid isPermaLink="false">sr-play:episode:1005135</guid>
-      <pubDate>Tue, 26 Dec 2017 23:07:00 -0000</pubDate>
+      <pubDate>Tue, 26 Dec 2017 22:07:00 -0000</pubDate>
       <sr:programid>5067</sr:programid>
       <sr:poddid>23791</sr:poddid>
       <itunes:author>Sveriges Radio</itunes:author>
       <itunes:summary>Om personerna som skapade vår historia. Missade du historielektionerna har du en ny chans nu!</itunes:summary>
       <itunes:subtitle>Om personerna som skapade vår historia. Missade du historielektionerna har du en ny chans nu!</itunes:subtitle>
-      <itunes:image href="https://static-cdn.sr.se/images/5067/91f573c0-8187-4f18-a2c4-8cdb200afcf1.jpg?preset=audio-box-foldable-episode" />
-      <itunes:duration>00:21:00</itunes:duration>
-      <enclosure url="https://www.sverigesradio.se/topsy/ljudfil/6331426" length="0" type="audio/mpeg" />
+      <itunes:image href="https://static-cdn.sr.se/images/5067/91f573c0-8187-4f18-a2c4-8cdb200afcf1.jpg" />
+      <itunes:duration>00:21:01</itunes:duration>
+      <enclosure url="https://lyssna-cdn.sr.se/isidor/mp/webb_rh__sthlm/2017/12/47__P3_Historia_pa_latt_sven_5a3d26de_a32.m4a" length="0" type="audio/mp4" />
     </item>
     <item>
       <title>P3 Historia 2017-10-08 kl. 08.02</title>
