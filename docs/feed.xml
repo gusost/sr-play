@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://gusost.github.io/sr-play/feed.xml</itunes:new-feed-url>
     <atom:link href="https://gusost.github.io/sr-play/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 15 Jun 2026 18:26:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 11:17:18 GMT</lastBuildDate>
     <image>
       <title>P3 Historia (Komplett arkiv)</title>
       <link>https://www.sverigesradio.se/p3historia</link>
@@ -29,6 +29,21 @@ Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas 
     <language>sv</language>
     <copyright>Copyright Sveriges Radio 2026. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">se</media:restriction>
+    <item>
+      <title>Fridtjof Nansen – från polarhjälte till mänsklighetens försvarare</title>
+      <description>Polarfararen som sprängde gränser i norr och blev Norges stolthet. Men sin berömdhet använde han också till något större: att kämpa för en bättre värld.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2789909</link>
+      <guid isPermaLink="false">sr-play:episode:2789909</guid>
+      <pubDate>Thu, 18 Jun 2026 05:00:00 -0000</pubDate>
+      <sr:programid>5067</sr:programid>
+      <sr:poddid>23791</sr:poddid>
+      <itunes:author>Sveriges Radio</itunes:author>
+      <itunes:summary>Polarfararen som sprängde gränser i norr och blev Norges stolthet. Men sin berömdhet använde han också till något större: att kämpa för en bättre värld.</itunes:summary>
+      <itunes:subtitle>Polarfararen som sprängde gränser i norr och blev Norges stolthet. Men sin berömdhet använde han också till något större: att kämpa för en bättre värld.</itunes:subtitle>
+      <itunes:image href="https://static-cdn.sr.se/images/5067/0bb340df-a357-4338-a954-261c900f282a.jpg" />
+      <itunes:duration>00:59:27</itunes:duration>
+      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2026/06/p3_historia_fridtjof_nansen__fran_polarhj_20260616_1307189649.mp3" length="57090082" type="audio/mpeg" />
+    </item>
     <item>
       <title>Hannibal – Roms värsta fiende</title>
       <description>&lt;p&gt;Generalen som vigde sitt liv åt en enda kamp: att till varje pris, och till sista blodsdroppen, krossa sin motståndare  det mäktiga Romarriket.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/play/program/5067?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Redaktionen för det här avsnittet är:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Elina Perdahl – programledare och manus&lt;/p&gt;&lt;p&gt;Mårten Andersson – producent&lt;/p&gt;&lt;p&gt;Zardasht Rad – scenuppläsare&lt;/p&gt;&lt;p&gt;Viktor Bergdahl – ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;Medverkar gör också Allan Klynne, doktor i antikens kultur och samhällsliv och författare till boken “Hannibal och andra puniska kriget”.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Vill du veta mer om Hannibal och hans tid? Här är några av böckerna som ligger till grund för avsnittet:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hannibal och det andra puniska kriget &lt;/em&gt;av Allan Klynne&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hannibal &lt;/em&gt;av Philip Freeman&lt;/p&gt;&lt;p&gt;&lt;em&gt;Puniska krigen &lt;/em&gt;av Adrian Goldsworth&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hannibal – enemy of Rome &lt;/em&gt;av Leonard Cottrell&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hannibal &lt;/em&gt;av Serge Lancel&lt;/p&gt;</description>
@@ -745,13 +760,13 @@ Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas 
     </item>
     <item>
       <title>Mordet på Leon Trotskij – del 1</title>
-      <description>&lt;p&gt;Berättelsen om ett av 1900-talets mest uppmärksammade politiska attentat. Del 1 av 2: En röd profet träder fram.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/play/program/5067?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Redaktionen för detta avsnitt består av:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cecilia Düringer – programledare och manus&lt;/p&gt;&lt;p&gt;Emilia Mellberg – producent&lt;/p&gt;&lt;p&gt;Zardasht Rad – scenuppläsare&lt;/p&gt;&lt;p&gt;Viktor Bergdahl – ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;Medverkar gör också Tomas Sniegon, historiker och docent i Europastudier vid Lunds universitet.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Vill du veta mer om mordet på Trotskij? Här är några av de böcker som ligger till grund för avsnittet:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Trotskij av Pierre Broué&lt;/p&gt;&lt;p&gt;Den väpnade profeten, Den avväpnade profeten och Den förvisade profeten av Isaac Deutscher&lt;/p&gt;&lt;p&gt;Trotsky a biography av Robert Service&lt;/p&gt;&lt;p&gt;Mordet på Trotskij av Julian Gorkin&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Berättelsen om ett av 1900-talets mest uppmärksammade politiska attentat. Del 1 av 2: En röd profet träder fram.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/play/program/5067?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Redaktionen för detta avsnitt består av:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cecilia Düringer – programledare och manus&lt;/p&gt;&lt;p&gt;Emilia Mellberg – producent&lt;/p&gt;&lt;p&gt;Zardasht Rad – scenuppläsare&lt;/p&gt;&lt;p&gt;Viktor Bergdahl – ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;Medverkar gör också Tomas Sniegon, historiker och docent i Europastudier vid Lunds universitet.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Vill du veta mer om mordet på Trotskij? Här är några av de böcker som ligger till grund för avsnitten:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Trotskij av Pierre Broué&lt;/p&gt;&lt;p&gt;Den väpnade profeten, Den avväpnade profeten och Den förvisade profeten av Isaac Deutscher&lt;/p&gt;&lt;p&gt;Trotsky a biography av Robert Service&lt;/p&gt;&lt;p&gt;Mordet på Trotskij av Julian Gorkin&lt;/p&gt;</description>
       <link>https://www.sverigesradio.se/avsnitt/2515507</link>
       <guid isPermaLink="false">rss:sr.se/pod/eid/2515507</guid>
       <pubDate>Thu, 26 Dec 2024 06:00:00 GMT</pubDate>
       <sr:programid>5067</sr:programid>
       <sr:poddid>23791</sr:poddid>
-      <itunes:summary>&lt;p&gt;Berättelsen om ett av 1900-talets mest uppmärksammade politiska attentat. Del 1 av 2: En röd profet träder fram.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/play/program/5067?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Redaktionen för detta avsnitt består av:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cecilia Düringer – programledare och manus&lt;/p&gt;&lt;p&gt;Emilia Mellberg – producent&lt;/p&gt;&lt;p&gt;Zardasht Rad – scenuppläsare&lt;/p&gt;&lt;p&gt;Viktor Bergdahl – ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;Medverkar gör också Tomas Sniegon, historiker och docent i Europastudier vid Lunds universitet.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Vill du veta mer om mordet på Trotskij? Här är några av de böcker som ligger till grund för avsnittet:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Trotskij av Pierre Broué&lt;/p&gt;&lt;p&gt;Den väpnade profeten, Den avväpnade profeten och Den förvisade profeten av Isaac Deutscher&lt;/p&gt;&lt;p&gt;Trotsky a biography av Robert Service&lt;/p&gt;&lt;p&gt;Mordet på Trotskij av Julian Gorkin&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</itunes:summary>
+      <itunes:summary>&lt;p&gt;Berättelsen om ett av 1900-talets mest uppmärksammade politiska attentat. Del 1 av 2: En röd profet träder fram.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/play/program/5067?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Redaktionen för detta avsnitt består av:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cecilia Düringer – programledare och manus&lt;/p&gt;&lt;p&gt;Emilia Mellberg – producent&lt;/p&gt;&lt;p&gt;Zardasht Rad – scenuppläsare&lt;/p&gt;&lt;p&gt;Viktor Bergdahl – ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;Medverkar gör också Tomas Sniegon, historiker och docent i Europastudier vid Lunds universitet.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Vill du veta mer om mordet på Trotskij? Här är några av de böcker som ligger till grund för avsnitten:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Trotskij av Pierre Broué&lt;/p&gt;&lt;p&gt;Den väpnade profeten, Den avväpnade profeten och Den förvisade profeten av Isaac Deutscher&lt;/p&gt;&lt;p&gt;Trotsky a biography av Robert Service&lt;/p&gt;&lt;p&gt;Mordet på Trotskij av Julian Gorkin&lt;/p&gt;</itunes:summary>
       <itunes:author>Sveriges Radio</itunes:author>
       <itunes:keywords>P3,Historia,Mordet,på,Leon,Trotskij,del,1</itunes:keywords>
       <itunes:image href="https://static-cdn.sr.se/images/5067/40ac0a53-830d-44d4-948c-c24740f709e8.jpg?preset=api-itunes-presentation-image" />
