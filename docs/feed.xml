@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://gusost.github.io/sr-play/feed.xml</itunes:new-feed-url>
     <atom:link href="https://gusost.github.io/sr-play/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 18 Jun 2026 12:07:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 10:52:21 GMT</lastBuildDate>
     <image>
       <title>P3 Historia (Komplett arkiv)</title>
       <link>https://www.sverigesradio.se/p3historia</link>
@@ -31,17 +31,18 @@ Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas 
     <media:restriction type="country" relationship="allow">se</media:restriction>
     <item>
       <title>Fridtjof Nansen – från polarhjälte till mänsklighetens försvarare</title>
-      <description>Polarfararen som sprängde gränser i norr och blev Norges stolthet. Men sin berömdhet använde han också till något större: att kämpa för en bättre värld.</description>
+      <description>&lt;p&gt;Polarfararen som sprängde gränser i norr och blev Norges stolthet. Men sin berömdhet använde han också till något större: att kämpa för en bättre värld.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/play/program/5067?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Redaktionen för det här avsnittet består av: &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Elina Perdahl – programledare och manus&lt;/p&gt;&lt;p&gt;Emilia Mellberg – producent, manus och research&lt;/p&gt;&lt;p&gt;Zardasht Rad – scenuppläsare&lt;/p&gt;&lt;p&gt;Viktor Bergdahl – ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;Medverkar gör också&amp;nbsp;Carl Emil Vogt, historiker och författare &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Vill du veta mer om Fridtjof Nansen? Här är några av böckerna som ligger till grund för avsnittet:&lt;/p&gt;&lt;p&gt;Fridtjof Nansen – mannen og verden av Carl Emil Vogt &lt;/p&gt;&lt;p&gt;Nansen – europén av Rolf Edberg &lt;/p&gt;&lt;p&gt;Fridtjof Nansen – en levnadsskildring av Liv Nansen Høyer &lt;/p&gt;</description>
       <link>https://www.sverigesradio.se/avsnitt/2789909</link>
-      <guid isPermaLink="false">sr-play:episode:2789909</guid>
-      <pubDate>Thu, 18 Jun 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="false">rss:sr.se/pod/eid/2789909</guid>
+      <pubDate>Thu, 25 Jun 2026 05:00:00 GMT</pubDate>
       <sr:programid>5067</sr:programid>
       <sr:poddid>23791</sr:poddid>
+      <itunes:summary>&lt;p&gt;Polarfararen som sprängde gränser i norr och blev Norges stolthet. Men sin berömdhet använde han också till något större: att kämpa för en bättre värld.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/play/program/5067?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Redaktionen för det här avsnittet består av: &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Elina Perdahl – programledare och manus&lt;/p&gt;&lt;p&gt;Emilia Mellberg – producent, manus och research&lt;/p&gt;&lt;p&gt;Zardasht Rad – scenuppläsare&lt;/p&gt;&lt;p&gt;Viktor Bergdahl – ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;Medverkar gör också&amp;nbsp;Carl Emil Vogt, historiker och författare &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Vill du veta mer om Fridtjof Nansen? Här är några av böckerna som ligger till grund för avsnittet:&lt;/p&gt;&lt;p&gt;Fridtjof Nansen – mannen og verden av Carl Emil Vogt &lt;/p&gt;&lt;p&gt;Nansen – europén av Rolf Edberg &lt;/p&gt;&lt;p&gt;Fridtjof Nansen – en levnadsskildring av Liv Nansen Høyer &lt;/p&gt;</itunes:summary>
       <itunes:author>Sveriges Radio</itunes:author>
-      <itunes:summary>Polarfararen som sprängde gränser i norr och blev Norges stolthet. Men sin berömdhet använde han också till något större: att kämpa för en bättre värld.</itunes:summary>
-      <itunes:subtitle>Polarfararen som sprängde gränser i norr och blev Norges stolthet. Men sin berömdhet använde han också till något större: att kämpa för en bättre värld.</itunes:subtitle>
-      <itunes:image href="https://static-cdn.sr.se/images/5067/0bb340df-a357-4338-a954-261c900f282a.jpg" />
+      <itunes:keywords>P3,Historia,Fridtjof,Nansen,från,polarhjälte,till,mänsklighetens,försvarare</itunes:keywords>
+      <itunes:image href="https://static-cdn.sr.se/images/5067/0bb340df-a357-4338-a954-261c900f282a.jpg?preset=api-itunes-presentation-image" />
       <itunes:duration>00:59:27</itunes:duration>
+      <itunes:subtitle>Polarfararen som sprängde gränser i norr och blev Norges stolthet. Men sin berömdhet använde han också till något större: att kämpa för en bättre värld.</itunes:subtitle>
       <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2026/06/p3_historia_fridtjof_nansen__fran_polarhj_20260616_1307189649.mp3" length="57090082" type="audio/mpeg" />
     </item>
     <item>
@@ -237,7 +238,7 @@ Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas 
       <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2026/01/p3_historia_ernest_hemingway__kicksokande_20260112_1330373722.mp3" length="54705797" type="audio/mpeg" />
     </item>
     <item>
-      <title>Andrées polarexpedition: Välkomna hem, del 3</title>
+      <title>Andrées polarexpedition del 3: Välkomna hem</title>
       <description>Del 3 av 3. Om de förlorade upptäckarnas resa över isen – fram till det oundvikliga slutet.</description>
       <link>https://www.sverigesradio.se/avsnitt/2713095</link>
       <guid isPermaLink="false">sr-play:episode:2713095</guid>
@@ -249,10 +250,10 @@ Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas 
       <itunes:subtitle>Del 3 av 3. Om de förlorade upptäckarnas resa över isen – fram till det oundvikliga slutet.</itunes:subtitle>
       <itunes:image href="https://static-cdn.sr.se/images/5067/551be452-0c6e-45bf-8855-201e76e97037.jpg" />
       <itunes:duration>00:46:41</itunes:duration>
-      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/12/p3_historia_andres_polarexpeditionvalko_20260211_0947439042.mp3" length="44837704" type="audio/mpeg" />
+      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/12/p3_historia_andres_polarexpedition_del_3_20260622_1327376045.mp3" length="44837704" type="audio/mpeg" />
     </item>
     <item>
-      <title>Andrées polarexpedition: Borta för evigt? del 2</title>
+      <title>Andrées polarexpedition, del 2: Borta för evigt?</title>
       <description>Del 2 av 3. Om en lång, tröstlös väntan – och en spektakulär upptäckt på otillgänglighetens ö.</description>
       <link>https://www.sverigesradio.se/avsnitt/2713094</link>
       <guid isPermaLink="false">sr-play:episode:2713094</guid>
@@ -264,10 +265,10 @@ Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas 
       <itunes:subtitle>Del 2 av 3. Om en lång, tröstlös väntan – och en spektakulär upptäckt på otillgänglighetens ö.</itunes:subtitle>
       <itunes:image href="https://static-cdn.sr.se/images/5067/59879458-22d1-48c4-b056-6d116b7b7b52.jpg" />
       <itunes:duration>00:39:48</itunes:duration>
-      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/12/p3_historia_andres_polarexpeditionborta_20260211_0947231171.mp3" length="38230231" type="audio/mpeg" />
+      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/12/p3_historia_andres_polarexpedition_del_2_20260622_1327038817.mp3" length="38230231" type="audio/mpeg" />
     </item>
     <item>
-      <title>Andrées polarexpedition: Avfärden, del 1</title>
+      <title>Andrées polarexpedition, del 1: Avfärden</title>
       <description>&lt;p&gt;Del 1 av 3. Om hur ett påkostat och dumdristigt projekt till slut inte har något annat val än att ge sig av  oavsett om man är redo eller ej.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/play/program/5067?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a class="internal-link" target="_self" href="https://sverigesradio.se/play/avsnitt/2713093?&amp;amp;utm_source=thirdparty&amp;amp;utm_medium=avsnittslank&amp;amp;utm_campaign=p3historia_andree&amp;amp;utm_content=p3historia_andree_del1"&gt;Hela serien finns att lyssna på i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt;&lt;p&gt;P3 Historia om Andrées polarexpedition är en serie i tre delar om mysteriet som länge omgärdade Salomon August Andrées polarexpedition.&lt;/p&gt;&lt;p&gt;Våren 1897 lyfter ballongen med sikte mot Nordpolen, och Andrée och hans två medresenärer försvinner bland molnen – för att aldrig ses igen.&lt;/p&gt;&lt;p&gt;P3 Historia berättar om de försvunna männen och deras älskade som tröstlöst väntade hemma. Vad hände efter att de försvann och hur var det för fästmön Anna som blev kvar? Det är en gåta som gäckat många länge.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Redaktionen för det här avsnittet är:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cecilia Düringer – programledare och manus&lt;/p&gt;&lt;p&gt;Mårten Andersson – producent, manus och research&lt;/p&gt;&lt;p&gt;Pablo Leiva Wenger – scenuppläsare&lt;/p&gt;&lt;p&gt;Viktor Bergdahl – ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;Medverkar gör också&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;Bea Uusma, författare till böckerna Expeditionen: Min kärlekshistoria och Vitön.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Vill du veta mer om Andrées polarexpedition? Här är några av böckerna som ligger till grund för avsnittet:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Expeditionen : Min kärlekshistoria &lt;/em&gt;av Bea Uusma&lt;/p&gt;&lt;p&gt;&lt;em&gt;Vitön : Den fristående fortsättningen på Expeditionen &lt;/em&gt;av Bea Uusma&lt;/p&gt;&lt;p&gt;&lt;em&gt;Andrées polarexpedition : ett ödesdrama i text och bild &lt;/em&gt;av Sven Lundström&lt;/p&gt;&lt;p&gt;&lt;em&gt;S A Andrée : ingenjören och polarfararen : biografin&lt;/em&gt; av Håkan Jorikson&lt;/p&gt;&lt;p&gt;&lt;em&gt;Nils Strindberg: en biografi om fotografen på Andrées polarexpedition &lt;/em&gt;av Tyrone Martinsson&lt;/p&gt;</description>
       <link>https://www.sverigesradio.se/avsnitt/2713093</link>
       <guid isPermaLink="false">rss:sr.se/pod/eid/2713093</guid>
@@ -276,11 +277,11 @@ Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas 
       <sr:poddid>23791</sr:poddid>
       <itunes:summary>&lt;p&gt;Del 1 av 3. Om hur ett påkostat och dumdristigt projekt till slut inte har något annat val än att ge sig av  oavsett om man är redo eller ej.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/play/program/5067?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a class="internal-link" target="_self" href="https://sverigesradio.se/play/avsnitt/2713093?&amp;amp;utm_source=thirdparty&amp;amp;utm_medium=avsnittslank&amp;amp;utm_campaign=p3historia_andree&amp;amp;utm_content=p3historia_andree_del1"&gt;Hela serien finns att lyssna på i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt;&lt;p&gt;P3 Historia om Andrées polarexpedition är en serie i tre delar om mysteriet som länge omgärdade Salomon August Andrées polarexpedition.&lt;/p&gt;&lt;p&gt;Våren 1897 lyfter ballongen med sikte mot Nordpolen, och Andrée och hans två medresenärer försvinner bland molnen – för att aldrig ses igen.&lt;/p&gt;&lt;p&gt;P3 Historia berättar om de försvunna männen och deras älskade som tröstlöst väntade hemma. Vad hände efter att de försvann och hur var det för fästmön Anna som blev kvar? Det är en gåta som gäckat många länge.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Redaktionen för det här avsnittet är:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cecilia Düringer – programledare och manus&lt;/p&gt;&lt;p&gt;Mårten Andersson – producent, manus och research&lt;/p&gt;&lt;p&gt;Pablo Leiva Wenger – scenuppläsare&lt;/p&gt;&lt;p&gt;Viktor Bergdahl – ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;Medverkar gör också&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;Bea Uusma, författare till böckerna Expeditionen: Min kärlekshistoria och Vitön.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Vill du veta mer om Andrées polarexpedition? Här är några av böckerna som ligger till grund för avsnittet:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Expeditionen : Min kärlekshistoria &lt;/em&gt;av Bea Uusma&lt;/p&gt;&lt;p&gt;&lt;em&gt;Vitön : Den fristående fortsättningen på Expeditionen &lt;/em&gt;av Bea Uusma&lt;/p&gt;&lt;p&gt;&lt;em&gt;Andrées polarexpedition : ett ödesdrama i text och bild &lt;/em&gt;av Sven Lundström&lt;/p&gt;&lt;p&gt;&lt;em&gt;S A Andrée : ingenjören och polarfararen : biografin&lt;/em&gt; av Håkan Jorikson&lt;/p&gt;&lt;p&gt;&lt;em&gt;Nils Strindberg: en biografi om fotografen på Andrées polarexpedition &lt;/em&gt;av Tyrone Martinsson&lt;/p&gt;</itunes:summary>
       <itunes:author>Sveriges Radio</itunes:author>
-      <itunes:keywords>P3,Historia,Andrées,polarexpedition: Avfärden,,del,1</itunes:keywords>
+      <itunes:keywords>P3,Historia,Andrées,polarexpedition,,del,1: Avfärden</itunes:keywords>
       <itunes:image href="https://static-cdn.sr.se/images/5067/9d3466eb-f517-40d4-a0b3-d13a1403ef85.jpg?preset=api-itunes-presentation-image" />
       <itunes:duration>00:43:48</itunes:duration>
       <itunes:subtitle>Del 1 av 3. Om hur ett påkostat och dumdristigt projekt till slut inte har något annat val än att ge sig av  oavsett om man är redo eller ej.</itunes:subtitle>
-      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2026/01/p3_historia_andres_polarexpeditionavfar_20260211_0946545241.mp3" length="42071795" type="audio/mpeg" />
+      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2026/01/p3_historia_andres_polarexpedition_del_1_20260622_1327484139.mp3" length="42071795" type="audio/mpeg" />
     </item>
     <item>
       <title>Margareta Leijonhufvud – Vasaättens urmoder</title>
