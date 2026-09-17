@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://gusost.github.io/sr-play/feed.xml</itunes:new-feed-url>
     <atom:link href="https://gusost.github.io/sr-play/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 10 Sep 2026 14:40:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 14:28:46 GMT</lastBuildDate>
     <image>
       <title>P3 Historia (Komplett arkiv)</title>
       <link>https://www.sverigesradio.se/p3historia</link>
@@ -31,17 +31,18 @@ Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas 
     <media:restriction type="country" relationship="allow">se</media:restriction>
     <item>
       <title>Ingrid Bergman – skandal, storfilm och statyetter</title>
-      <description>En av Sveriges mest framgångsrika internationella skådespelerskor, som aldrig lät sig tuktas utan gick sin egen väg – kosta vad det kosta ville.</description>
+      <description>&lt;p&gt;En av Sveriges mest framgångsrika internationella skådespelerskor, som aldrig lät sig tuktas utan gick sin egen väg  kosta vad det kosta ville.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/play/program/5067?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Redaktionen för det här avsnittet är:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cecilia Düringer – programledare och manus&lt;/p&gt;&lt;p&gt;Mårten Andersson – producent, manus och research&lt;/p&gt;&lt;p&gt;Zardasht Rad – scenuppläsare&lt;/p&gt;&lt;p&gt;Viktor Bergdahl – ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;Medverkar gör också Tytti Soila, professor emerita i filmvetenskap vid Stockholms universitet.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Vill du veta mer om Ingrid Bergman? Här är några av de böcker som ligger till grund för avsnittet:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Ingrid &lt;/em&gt;av Charlotte Chandler&lt;/p&gt;&lt;p&gt;&lt;em&gt;Notorious – boken om Ingrid Bergman &lt;/em&gt;av Donald Spoto&lt;/p&gt;&lt;p&gt;&lt;em&gt;Mitt liv &lt;/em&gt;av Ingrid Bergman&lt;/p&gt;&lt;p&gt;&lt;em&gt;As time goes by –&amp;nbsp;den sanna bilden av Ingrid Bergman&lt;/em&gt; av Laurence Leamer&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Vill du ha koll på de senaste dokumentärerna från Sveriges Radio? Då kan du anmäla dig till vårt nyhetsbrev &lt;/em&gt;&lt;a class="external-link" rel="noreferrer noopener nofollow" target="_blank" href="https://om.sverigesradio.se/prenumerera-pa-nyhetsbrevet-dokumentarer-fran-sveriges-radio"&gt;&lt;strong&gt;&lt;em&gt;här.&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
       <link>https://www.sverigesradio.se/avsnitt/2869807</link>
-      <guid isPermaLink="false">sr-play:episode:2869807</guid>
-      <pubDate>Thu, 10 Sep 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="false">rss:sr.se/pod/eid/2869807</guid>
+      <pubDate>Thu, 17 Sep 2026 05:00:00 GMT</pubDate>
       <sr:programid>5067</sr:programid>
       <sr:poddid>23791</sr:poddid>
+      <itunes:summary>&lt;p&gt;En av Sveriges mest framgångsrika internationella skådespelerskor, som aldrig lät sig tuktas utan gick sin egen väg  kosta vad det kosta ville.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/play/program/5067?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Redaktionen för det här avsnittet är:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cecilia Düringer – programledare och manus&lt;/p&gt;&lt;p&gt;Mårten Andersson – producent, manus och research&lt;/p&gt;&lt;p&gt;Zardasht Rad – scenuppläsare&lt;/p&gt;&lt;p&gt;Viktor Bergdahl – ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;Medverkar gör också Tytti Soila, professor emerita i filmvetenskap vid Stockholms universitet.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Vill du veta mer om Ingrid Bergman? Här är några av de böcker som ligger till grund för avsnittet:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Ingrid &lt;/em&gt;av Charlotte Chandler&lt;/p&gt;&lt;p&gt;&lt;em&gt;Notorious – boken om Ingrid Bergman &lt;/em&gt;av Donald Spoto&lt;/p&gt;&lt;p&gt;&lt;em&gt;Mitt liv &lt;/em&gt;av Ingrid Bergman&lt;/p&gt;&lt;p&gt;&lt;em&gt;As time goes by –&amp;nbsp;den sanna bilden av Ingrid Bergman&lt;/em&gt; av Laurence Leamer&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Vill du ha koll på de senaste dokumentärerna från Sveriges Radio? Då kan du anmäla dig till vårt nyhetsbrev &lt;/em&gt;&lt;a class="external-link" rel="noreferrer noopener nofollow" target="_blank" href="https://om.sverigesradio.se/prenumerera-pa-nyhetsbrevet-dokumentarer-fran-sveriges-radio"&gt;&lt;strong&gt;&lt;em&gt;här.&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</itunes:summary>
       <itunes:author>Sveriges Radio</itunes:author>
-      <itunes:summary>En av Sveriges mest framgångsrika internationella skådespelerskor, som aldrig lät sig tuktas utan gick sin egen väg – kosta vad det kosta ville.</itunes:summary>
-      <itunes:subtitle>En av Sveriges mest framgångsrika internationella skådespelerskor, som aldrig lät sig tuktas utan gick sin egen väg – kosta vad det kosta ville.</itunes:subtitle>
-      <itunes:image href="https://static-cdn.sr.se/images/5067/bcf5b116-1407-4927-b0df-74731524baeb.jpg" />
+      <itunes:keywords>P3,Historia,Ingrid,Bergman,skandal,,storfilm,och,statyetter</itunes:keywords>
+      <itunes:image href="https://static-cdn.sr.se/images/5067/bcf5b116-1407-4927-b0df-74731524baeb.jpg?preset=api-itunes-presentation-image" />
       <itunes:duration>00:55:16</itunes:duration>
+      <itunes:subtitle>En av Sveriges mest framgångsrika internationella skådespelerskor, som aldrig lät sig tuktas utan gick sin egen väg  kosta vad det kosta ville.</itunes:subtitle>
       <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2026/09/p3_historia_ingrid_bergman__skandal_stor_20260903_1503510056.mp3" length="53083744" type="audio/mpeg" />
     </item>
     <item>
@@ -3132,28 +3133,20 @@ Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas 
       <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_historia/2020/06/p3_historia_20200611_0700_5ee7540b.mp3" length="56024899" type="audio/mpeg" />
     </item>
     <item>
-      <title>Katarina Jagellonica – Vasadrottning i nöd och lust </title>
-      <description>&lt;p&gt;Den polska prinsessan som blev en av Vasadrottningarna. En katolsk ikon som skänkte förfining och tog renässansens flärd till ett mörkt och torftigt Sverige. &lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/play/program/5067?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Redaktionen för det här avsnittet består av:&lt;/p&gt;
-&lt;p&gt;Cecilia Düringer - programledare och manus&lt;br&gt;Tove Palén&amp;nbsp;- research, manus och producent&lt;br&gt;Emilia Mellberg - producent&lt;br&gt;Navid Bavey - scenuppläsare&lt;br&gt;Elias Klenell&amp;nbsp;– ljuddesign och slutmix&lt;/p&gt;
-&lt;p&gt;Medverkar i avsnittet gör också Eva Mattson,&amp;nbsp;konsthistoriker och författare.&lt;/p&gt;
-&lt;p&gt;Vill du veta mer om&amp;nbsp;Katarina Jagellonica? Här är några av de böcker som ligger till grund för avsnittet:&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Furstinnan – en biografi om drottning Katarina Jagellonica&amp;nbsp;&lt;/em&gt;Eva Mattsson&amp;nbsp;&lt;br&gt;&lt;em&gt;Arvet efter Gustav Vasa&amp;nbsp;&lt;/em&gt;Lars-Olof Larsson&lt;/p&gt;</description>
+      <title>Katarina Jagellonica – Vasadrottning i nöd och lust</title>
+      <description>&lt;p&gt;Den polska prinsessan som blev Vasadrottning. En katolsk ikon som skänkte förfining och tog renässansens flärd till ett mörkt och torftigt Sverige.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/play/program/5067?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Redaktionen för det här avsnittet består av:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cecilia Düringer - programledare och manus&lt;/p&gt;&lt;p&gt;Tove Palén&amp;nbsp;- research, manus och producent&lt;/p&gt;&lt;p&gt;Emilia Mellberg - producent&lt;/p&gt;&lt;p&gt;Navid Bavey - scenuppläsare&lt;/p&gt;&lt;p&gt;Elias Klenell&amp;nbsp;– ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;Medverkar i avsnittet gör också Eva Mattson,&amp;nbsp;konsthistoriker och författare.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Vill du veta mer om&amp;nbsp;Katarina Jagellonica? Här är några av de böcker som ligger till grund för avsnittet:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Furstinnan – en biografi om drottning Katarina Jagellonica&amp;nbsp;&lt;/em&gt;Eva Mattsson&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Arvet efter Gustav Vasa&amp;nbsp;&lt;/em&gt;Lars-Olof Larsson&lt;/p&gt;</description>
       <link>https://www.sverigesradio.se/avsnitt/1506711</link>
-      <guid isPermaLink="false">rss:sr.se/pod/p3_historia_20200528_0700_5eceb9a9.mp3</guid>
+      <guid isPermaLink="false">rss:sr.se/pod/p3_historia_katarina_jagellonica__vasadro_20260911_0927357887.mp3</guid>
       <pubDate>Thu, 28 May 2020 05:00:00 GMT</pubDate>
       <sr:programid>5067</sr:programid>
       <sr:poddid>23791</sr:poddid>
-      <itunes:summary>&lt;p&gt;Den polska prinsessan som blev en av Vasadrottningarna. En katolsk ikon som skänkte förfining och tog renässansens flärd till ett mörkt och torftigt Sverige. &lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/play/program/5067?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Redaktionen för det här avsnittet består av:&lt;/p&gt;
-&lt;p&gt;Cecilia Düringer - programledare och manus&lt;br&gt;Tove Palén&amp;nbsp;- research, manus och producent&lt;br&gt;Emilia Mellberg - producent&lt;br&gt;Navid Bavey - scenuppläsare&lt;br&gt;Elias Klenell&amp;nbsp;– ljuddesign och slutmix&lt;/p&gt;
-&lt;p&gt;Medverkar i avsnittet gör också Eva Mattson,&amp;nbsp;konsthistoriker och författare.&lt;/p&gt;
-&lt;p&gt;Vill du veta mer om&amp;nbsp;Katarina Jagellonica? Här är några av de böcker som ligger till grund för avsnittet:&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Furstinnan – en biografi om drottning Katarina Jagellonica&amp;nbsp;&lt;/em&gt;Eva Mattsson&amp;nbsp;&lt;br&gt;&lt;em&gt;Arvet efter Gustav Vasa&amp;nbsp;&lt;/em&gt;Lars-Olof Larsson&lt;/p&gt;</itunes:summary>
+      <itunes:summary>&lt;p&gt;Den polska prinsessan som blev Vasadrottning. En katolsk ikon som skänkte förfining och tog renässansens flärd till ett mörkt och torftigt Sverige.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/play/program/5067?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Redaktionen för det här avsnittet består av:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cecilia Düringer - programledare och manus&lt;/p&gt;&lt;p&gt;Tove Palén&amp;nbsp;- research, manus och producent&lt;/p&gt;&lt;p&gt;Emilia Mellberg - producent&lt;/p&gt;&lt;p&gt;Navid Bavey - scenuppläsare&lt;/p&gt;&lt;p&gt;Elias Klenell&amp;nbsp;– ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;Medverkar i avsnittet gör också Eva Mattson,&amp;nbsp;konsthistoriker och författare.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Vill du veta mer om&amp;nbsp;Katarina Jagellonica? Här är några av de böcker som ligger till grund för avsnittet:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Furstinnan – en biografi om drottning Katarina Jagellonica&amp;nbsp;&lt;/em&gt;Eva Mattsson&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Arvet efter Gustav Vasa&amp;nbsp;&lt;/em&gt;Lars-Olof Larsson&lt;/p&gt;</itunes:summary>
       <itunes:author>Sveriges Radio</itunes:author>
       <itunes:keywords>P3,Historia,Katarina,Jagellonica,Vasadrottning,i,nöd,och,lust</itunes:keywords>
-      <itunes:image href="https://static-cdn.sr.se/images/5067/c4bc7b9b-8682-48dd-b5da-3e174f9a862c.png?preset=api-itunes-presentation-image" />
+      <itunes:image href="https://static-cdn.sr.se/images/5067/0bd1fe3e-9330-432b-8e37-3803fb9f225d.jpg?preset=api-itunes-presentation-image" />
       <itunes:duration>00:50:41</itunes:duration>
-      <itunes:subtitle>Den polska prinsessan som blev en av Vasadrottningarna. En katolsk ikon som skänkte förfining och tog renässansens flärd till ett mörkt och torftigt Sverige. </itunes:subtitle>
-      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_historia/2020/05/p3_historia_20200528_0700_5eceb9a9.mp3" length="48694614" type="audio/mpeg" />
+      <itunes:subtitle>Den polska prinsessan som blev Vasadrottning. En katolsk ikon som skänkte förfining och tog renässansens flärd till ett mörkt och torftigt Sverige.</itunes:subtitle>
+      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_historia/2020/05/p3_historia_katarina_jagellonica__vasadro_20260911_0927357887.mp3" length="48694614" type="audio/mpeg" />
     </item>
     <item>
       <title>Napoleon - makten, hybrisen och det monumentala fallet </title>
