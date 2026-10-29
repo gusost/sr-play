@@ -10,11 +10,11 @@
       <itunes:email>podd@sverigesradio.se</itunes:email>
     </itunes:owner>
     <itunes:category text="History" />
-    <itunes:category text="Society &amp;amp; Culture">
+    <itunes:category text="Society &amp; Culture">
       <itunes:category text="Documentary" />
     </itunes:category>
     <title>P3 Historia (Komplett arkiv)</title>
-    <link>https://www.sverigesradio.se/p3-historia</link>
+    <link>https://www.sverigesradio.se/poddar/p3-historia</link>
     <description>Om personerna som skapade vår historia. Missade du historielektionerna har du en ny chans nu! &lt;a href="https://sverigesradio.se/poddar/p3-historia?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=program_p3-historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt; Ansvarig utgivare: Caroline Pouron
 Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas i Sveriges Radios vanliga poddflöde.</description>
     <language>sv</language>
@@ -22,17 +22,15 @@ Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas 
     <media:restriction type="country" relationship="allow">se</media:restriction>
     <item>
       <title>Malcolm X – radikal röst i rasismens USA</title>
-      <description>En av USA:s mest kända och kontroversiella röster i kampen för svartas rättigheter. För sin radikala kompromisslöshet blev han beundrad, hatad – och till slut: ett jagat byte.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2885289</link>
-      <guid isPermaLink="false">sr-play:episode:2885289</guid>
-      <pubDate>Thu, 22 Oct 2026 05:00:00 -0000</pubDate>
+      <description>&lt;p&gt;En av USA:s mest kända och kontroversiella röster i kampen för svartas rättigheter. För sin radikala kompromisslöshet blev han beundrad, hatad – och till slut: ett jagat byte.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/poddar/p3-historia?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3-historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Redaktionen för det här avsnittet är:&lt;/p&gt;&lt;p&gt;Elina Perdahl – programledare och manus&lt;/p&gt;&lt;p&gt;Emilia Mellberg – producent&lt;/p&gt;&lt;p&gt;Zardasht Rad – scenuppläsare&lt;/p&gt;&lt;p&gt;Viktor Bergdahl – ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Medverkar gör också Jasmine Kelekay, forskare i sociologi på Howard University i Washington&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Vill du veta mer om Malcolm X? Här är några av de böcker som ligger till grund för avsnittet:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;The autobiography of Malcolm X as told to Alex Haley&lt;/em&gt; av Malcolm X&lt;/p&gt;&lt;p&gt;&lt;em&gt;Malcolm X&lt;/em&gt; av Manning Marable&lt;/p&gt;&lt;p&gt;&lt;em&gt;Malcolm X – the biography &lt;/em&gt;av Jalen Thomas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Malcolm X talar &lt;/em&gt;av Malcolm X&lt;/p&gt;</description>
+      <link>https://www.sverigesradio.se/avsnitt/malcolm-x-radikal-rost-i-rasismens-usa</link>
+      <guid isPermaLink="false">rss:sr.se/pod/eid/2885289</guid>
+      <pubDate>Thu, 29 Oct 2026 06:00:00 GMT</pubDate>
       <sr:programid>5067</sr:programid>
-      <sr:poddid>23791</sr:poddid>
+      <sr:poddid>0</sr:poddid>
       <itunes:author>Sveriges Radio</itunes:author>
-      <itunes:summary>En av USA:s mest kända och kontroversiella röster i kampen för svartas rättigheter. För sin radikala kompromisslöshet blev han beundrad, hatad – och till slut: ett jagat byte.</itunes:summary>
-      <itunes:subtitle>En av USA:s mest kända och kontroversiella röster i kampen för svartas rättigheter. För sin radikala kompromisslöshet blev han beundrad, hatad – och till slut: ett jagat byte.</itunes:subtitle>
-      <itunes:image href="https://static-cdn.sr.se/images/5067/6cff671b-548f-48a7-8010-0af8ee694f8f.jpg" />
-      <itunes:duration>00:58:28</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/5067/6cff671b-548f-48a7-8010-0af8ee694f8f.jpg?preset=api-itunes-presentation-image" />
+      <itunes:duration>3508</itunes:duration>
       <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2026/10/p3_historia_malcolm_x__radikal_rost_i_ras_20261021_1101088679.mp3" length="56145431" type="audio/mpeg" />
     </item>
     <item>
