@@ -21,18 +21,16 @@ Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas 
     <copyright>Copyright Sveriges Radio 2026. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">se</media:restriction>
     <item>
-      <title>Skotten i Sarajevo – Första världskrigets tändande gnista</title>
-      <description>Berättelsen om hur en ung man och två avlossade kulor kom att föra Europa och världen mot den stora katastrofen.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2893984</link>
-      <guid isPermaLink="false">sr-play:episode:2893984</guid>
-      <pubDate>Thu, 05 Nov 2026 06:00:00 -0000</pubDate>
+      <title>Skotten i Sarajevo – Första världskrigets tändande gnista</title>
+      <description>&lt;p&gt;Berättelsen om hur en ung man och två avlossade kulor kom att föra Europa och världen mot den stora katastrofen.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/poddar/p3-historia?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3-historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Redaktionen för det här avsnittet är:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Elina Perdahl – programledare och manus&lt;/p&gt;&lt;p&gt;Mårten Andersson – producent och manus&lt;/p&gt;&lt;p&gt;Zardasht Rad – scenuppläsare&lt;/p&gt;&lt;p&gt;Viktor Bergdahl – ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;Medverkar gör också Andreas Marklund, författare till boken Skotten i Sarajevo – Upptakten till första världskriget.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Vill du veta mer om skotten i Sarajevo? Här är några av de böcker som ligger till grund för avsnittet:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Skotten i Sarajevo – Upptakten till första världskriget &lt;/em&gt;av Andreas Marklund&lt;/p&gt;&lt;p&gt;&lt;em&gt;1914 – Vägen till första världskriget &lt;/em&gt;av Peter Olausson&lt;/p&gt;&lt;p&gt;&lt;em&gt;Första världskriget &lt;/em&gt;av Marco Smedberg&lt;/p&gt;&lt;p&gt;&lt;em&gt;The sleepwalkers : how Europe went to war in 1914 &lt;/em&gt;av Christopher Clark&lt;/p&gt;</description>
+      <link>https://www.sverigesradio.se/avsnitt/skotten-i-sarajevo-forsta-varldskrigets-tandande-gnista</link>
+      <guid isPermaLink="false">rss:sr.se/pod/eid/2893984</guid>
+      <pubDate>Thu, 12 Nov 2026 06:00:00 GMT</pubDate>
       <sr:programid>5067</sr:programid>
-      <sr:poddid>23791</sr:poddid>
+      <sr:poddid>0</sr:poddid>
       <itunes:author>Sveriges Radio</itunes:author>
-      <itunes:summary>Berättelsen om hur en ung man och två avlossade kulor kom att föra Europa och världen mot den stora katastrofen.</itunes:summary>
-      <itunes:subtitle>Berättelsen om hur en ung man och två avlossade kulor kom att föra Europa och världen mot den stora katastrofen.</itunes:subtitle>
-      <itunes:image href="https://static-cdn.sr.se/images/5067/7b639d3e-8296-4e8b-a29f-971ed727b06f.jpg" />
-      <itunes:duration>00:59:17</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/5067/7b639d3e-8296-4e8b-a29f-971ed727b06f.jpg?preset=api-itunes-presentation-image" />
+      <itunes:duration>3557</itunes:duration>
       <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2026/11/p3_historia_skotten_i_sarajevo_forsta_va_20261104_1635147746.mp3" length="56939112" type="audio/mpeg" />
     </item>
     <item>
