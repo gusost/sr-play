@@ -21,17 +21,32 @@ Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas 
     <copyright>Copyright Sveriges Radio 2026. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">se</media:restriction>
     <item>
+      <title>Yaa Asantewaa – krigardrottningen som trotsade britterna</title>
+      <description>Den västafrikanska drottningmodern som stod upp för sitt rike. När andra tvekade ledde hon sitt folks uppror mot ett av historiens starkaste imperier.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2885292</link>
+      <guid isPermaLink="false">sr-play:episode:2885292</guid>
+      <pubDate>Thu, 19 Nov 2026 06:00:00 -0000</pubDate>
+      <sr:programid>5067</sr:programid>
+      <sr:poddid>23791</sr:poddid>
+      <itunes:author>Sveriges Radio</itunes:author>
+      <itunes:summary>Den västafrikanska drottningmodern som stod upp för sitt rike. När andra tvekade ledde hon sitt folks uppror mot ett av historiens starkaste imperier.</itunes:summary>
+      <itunes:subtitle>Den västafrikanska drottningmodern som stod upp för sitt rike. När andra tvekade ledde hon sitt folks uppror mot ett av historiens starkaste imperier.</itunes:subtitle>
+      <itunes:image href="https://static-cdn.sr.se/images/5067/52d42783-2caa-4555-aa37-927725e8e708.jpg" />
+      <itunes:duration>00:57:25</itunes:duration>
+      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2026/11/p3_historia_yaa_asantewaa__krigardrottnin_20261119_0935263746.mp3" length="55141264" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Skotten i Sarajevo – Första världskrigets tändande gnista</title>
-      <description>&lt;p&gt;Berättelsen om hur en ung man och två avlossade kulor kom att föra Europa och världen mot den stora katastrofen.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/poddar/p3-historia?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3-historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Redaktionen för det här avsnittet är:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Elina Perdahl – programledare och manus&lt;/p&gt;&lt;p&gt;Mårten Andersson – producent och manus&lt;/p&gt;&lt;p&gt;Zardasht Rad – scenuppläsare&lt;/p&gt;&lt;p&gt;Viktor Bergdahl – ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;Medverkar gör också Andreas Marklund, författare till boken Skotten i Sarajevo – Upptakten till första världskriget.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Vill du veta mer om skotten i Sarajevo? Här är några av de böcker som ligger till grund för avsnittet:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Skotten i Sarajevo – Upptakten till första världskriget &lt;/em&gt;av Andreas Marklund&lt;/p&gt;&lt;p&gt;&lt;em&gt;1914 – Vägen till första världskriget &lt;/em&gt;av Peter Olausson&lt;/p&gt;&lt;p&gt;&lt;em&gt;Första världskriget &lt;/em&gt;av Marco Smedberg&lt;/p&gt;&lt;p&gt;&lt;em&gt;The sleepwalkers : how Europe went to war in 1914 &lt;/em&gt;av Christopher Clark&lt;/p&gt;</description>
+      <description>&lt;p&gt;Berättelsen om hur en ung man och två avlossade kulor kom att föra Europa och världen mot den stora katastrofen.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/poddar/p3-historia?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3-historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Redaktionen för det här avsnittet är:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Elina Perdahl – programledare och manus&lt;/p&gt;&lt;p&gt;Mårten Andersson – producent och manus&lt;/p&gt;&lt;p&gt;Zardasht Rad – scenuppläsare&lt;/p&gt;&lt;p&gt;Viktor Bergdahl – ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;Medverkar gör också Andreas Marklund, författare till boken Skotten i Sarajevo – Upptakten till första världskriget.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Vill du veta mer om skotten i Sarajevo? Här är några av de böcker som ligger till grund för avsnittet:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Skotten i Sarajevo – Upptakten till första världskriget &lt;/em&gt;av Andreas Marklund&lt;/p&gt;&lt;p&gt;&lt;em&gt;1914 – Vägen till första världskriget &lt;/em&gt;av Peter Olausson&lt;/p&gt;&lt;p&gt;&lt;em&gt;Första världskriget &lt;/em&gt;av Marco Smedberg&lt;/p&gt;&lt;p&gt;&lt;em&gt;The sleepwalkers : how Europe went to war in 1914 &lt;/em&gt;av Christopher Clark&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;em&gt;Podden har uppdaterats med rätt uttal på vissa ställen.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description>
       <link>https://www.sverigesradio.se/avsnitt/skotten-i-sarajevo-forsta-varldskrigets-tandande-gnista</link>
       <guid isPermaLink="false">rss:sr.se/pod/eid/2893984</guid>
-      <pubDate>Thu, 12 Nov 2026 06:00:00 GMT</pubDate>
+      <pubDate>Thu, 05 Nov 2026 06:00:00 GMT</pubDate>
       <sr:programid>5067</sr:programid>
       <sr:poddid>0</sr:poddid>
       <itunes:author>Sveriges Radio</itunes:author>
       <itunes:image href="https://static-cdn.sr.se/images/5067/7b639d3e-8296-4e8b-a29f-971ed727b06f.jpg?preset=api-itunes-presentation-image" />
       <itunes:duration>3557</itunes:duration>
-      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2026/11/p3_historia_skotten_i_sarajevo_forsta_va_20261104_1635147746.mp3" length="56939112" type="audio/mpeg" />
+      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2026/11/p3_historia_skotten_i_sarajevo_forsta_va_20261117_1146140729.mp3" length="56939112" type="audio/mpeg" />
     </item>
     <item>
       <title>Malcolm X – radikal röst i rasismens USA</title>
@@ -633,7 +648,7 @@ Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas 
       <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/05/p3_historia_winston_churchill__europas_fy_20250512_1525074438.mp3" length="57457902" type="audio/mpeg" />
     </item>
     <item>
-      <title>Boudicca – Kelternas hämndlystna krigardrottning</title>
+      <title>Boudicca – kelternas hämndlystna krigardrottning</title>
       <description>&lt;p&gt;En 2000-årig rebell som skakade om ett av världshistoriens mäktigaste imperier - och som kämpade ända in i döden för sitt folks frihet.&lt;/p&gt;&lt;p&gt; &lt;a href="https://sverigesradio.se/poddar/p3-historia?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_campaign=episode_p3-historia"&gt;Lyssna på alla avsnitt i Sveriges Radios app.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Redaktionen för detta avsnitt består av:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Elina Perdahl – programledare och manus&lt;/p&gt;&lt;p&gt;Mårten Andersson – manus, research och producent&lt;/p&gt;&lt;p&gt;Zardasht Rad – scenuppläsare&lt;/p&gt;&lt;p&gt;Viktor Bergdahl – ljuddesign och slutmix&lt;/p&gt;&lt;p&gt;Medverkar gör också Allan Klynne, författare och doktor i antikens kultur och samhällsliv.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Vill du veta mer om Boudicca? Här är några av böckerna som legat till grund för avsnittet:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Boudica : warrior woman of Roman Britain&lt;/em&gt; av Caitlin C. Gillespie&lt;/p&gt;&lt;p&gt;&lt;em&gt;Boudica&lt;/em&gt; av Vanessa Collingridge&lt;/p&gt;</description>
       <link>https://www.sverigesradio.se/avsnitt/boudicca-kelternas-hamndlystna-krigardrottning</link>
       <guid isPermaLink="false">rss:sr.se/pod/eid/2590594</guid>
@@ -643,7 +658,7 @@ Detta är ett kompletterat RSS-flöde som inkluderar publika avsnitt som saknas 
       <itunes:author>Sveriges Radio</itunes:author>
       <itunes:image href="https://static-cdn.sr.se/images/5067/80d31ba2-6fb1-4bcb-8aad-1aa04f113d29.jpg?preset=api-itunes-presentation-image" />
       <itunes:duration>3329</itunes:duration>
-      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/04/p3_historia_boudicca_kelternas_hamndlyst_20250505_0933346568.mp3" length="53286730" type="audio/mpeg" />
+      <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/04/p3_historia_boudicca_kelternas_hamndlyst_20261119_0936264729.mp3" length="53286730" type="audio/mpeg" />
     </item>
     <item>
       <title>Winston Churchill – det långa första kapitlet</title>
